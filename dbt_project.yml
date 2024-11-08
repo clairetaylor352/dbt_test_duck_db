@@ -1,0 +1,28 @@
+name: 'jaffle'
+version: '0.1'
+profile: 'bigquery'
+config-version: 2
+
+model-paths: ["models"]
+analysis-paths: ["analysis"]
+test-paths: ["tests"]
+seed-paths: ["data"]
+macro-paths: ["macros"]
+docs-paths: ["docs"]
+
+
+log-path: "logs"
+
+clean-targets:
+  - "target"
+  - "logs"
+
+sources:
+  jaffle:
+
+
+
+
+models:
+  +materialized: table
+  jaffle:
