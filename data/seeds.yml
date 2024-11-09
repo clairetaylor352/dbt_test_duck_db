@@ -1,0 +1,35 @@
+version: 2
+
+seeds:
+  - name: customers
+    columns:
+      - name: customer_id
+        data_tests:
+          - unique
+          - not_null
+  - name: activity
+    data_tests:
+      - dbt_expectations.expect_compound_columns_to_be_unique:
+          column_list: [ "subscription_id", "from_date", "to_date"]
+    columns:
+      - name: customer_id
+        data_tests:
+          - not_null
+      - name: subscription_id
+        data_tests:
+          - not_null
+      - name: from_date
+        data_tests:
+          - not_null
+      - name: to_date
+        data_tests:
+          - not_null
+  - name: acq_orders
+    columns:
+      - name: customer_id
+        data_tests:
+          - not_null
+          - unique
+      - name: taxonomy_business_category_group
+        data_tests:
+          - not_null

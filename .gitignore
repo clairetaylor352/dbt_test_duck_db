@@ -1,0 +1,6 @@
+duckdb*
+test_duckdb.duckdb
+.user.yml
+dbt_packages/*
+*.log
+target/*

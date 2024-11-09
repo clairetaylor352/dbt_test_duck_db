@@ -1,9 +1,6 @@
-bigquery:
+duckdb:
   target: dev
   outputs:
     dev:
-      type: bigquery
-      method: oauth
-      project: analytics-take-home-test
-      dataset: ct_monzo_dwh_2024_06_03
-      threads: 4
+      type: duckdb
+      path: 'test_duckdb.duckdb'

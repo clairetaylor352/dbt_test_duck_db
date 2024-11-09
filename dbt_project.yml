@@ -1,6 +1,6 @@
-name: 'jaffle'
+name: 'duck_db_test'
 version: '0.1'
-profile: 'bigquery'
+profile: 'duckdb'
 config-version: 2
 
 model-paths: ["models"]
@@ -18,11 +18,8 @@ clean-targets:
   - "logs"
 
 sources:
-  jaffle:
-
-
-
+  duck_db_test:
 
 models:
   +materialized: table
-  jaffle:
+  duck_db_test:
