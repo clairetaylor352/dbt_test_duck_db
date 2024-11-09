@@ -84,6 +84,7 @@ The principal logic in this repo is contained in [fact_activity.sql](./models/se
 ### I want to have a look around
 
 1. Start up codespaces from this repo
+![alt text](image.png)
 2. Run `./scripts/linux_setup.sh` in the terminal
 3. Run `dbt build` - this will read in the data into a duckdb instance and output the csv that is saved to this repo
 4. Run `./duckdb test_duckdb.duckdb` - you can then have a look around the tables created by dbt
