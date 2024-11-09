@@ -77,9 +77,9 @@ Note: If you wish to use this table to aggregate up (e.g. to find stats for a co
 ## How to look at the results
 
 ### I am feeling lazy
-Take a look at `output/customer_acquisition_monthly.csv`
+Take a look at [customer_acquisition_monthly.csv](./output/customer_acquisition_monthly.csv) for the output
 
-The principal logic in this repo is contained in `fact_activity.sql` and `customer_activity_monthly.sql`. It also contains a data table, `dim_date.sql` (which is copied off the internet..)
+The principal logic in this repo is contained in [fact_activity.sql](./models/semantic/fact_activity.sql) and [customer_acquisition_monthly](./models/reporting/customer_activity_monthly.sql). It also contains a data table, [dim_date.sql](./models/semantic/dim_date.sql) (which is copied off the internet..)
 
 ### I want to have a look around
 
