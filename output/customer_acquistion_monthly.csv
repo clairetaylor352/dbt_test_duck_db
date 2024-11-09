@@ -1,0 +1,782 @@
+first_day_of_month,month_of_year,month_name,year_key,customer_country,taxonomy_business_category_group,registering_customers_count,deregistering_customers_count,previous_active_customer_count,active_customers_count,churn_rate
+2019-01-01,1,January,2019,United Kingdom,Hair Loss Group,34,0,,34,0.0
+2019-02-01,2,February,2019,United Kingdom,Hair Loss Group,47,13,34,81,0.16049382716049382
+2019-03-01,3,March,2019,United Kingdom,Hair Loss Group,89,20,68,157,0.12738853503184713
+2019-04-01,4,April,2019,United Kingdom,Hair Loss Group,69,32,137,206,0.1553398058252427
+2019-05-01,5,May,2019,United Kingdom,Hair Loss Group,41,24,174,215,0.11162790697674418
+2019-06-01,6,June,2019,United Kingdom,Hair Loss Group,103,22,191,294,0.07482993197278912
+2019-07-01,7,July,2019,United Kingdom,Hair Loss Group,68,29,272,340,0.08529411764705883
+2019-08-01,8,August,2019,United Kingdom,Hair Loss Group,63,26,311,374,0.06951871657754011
+2019-09-01,9,September,2019,United Kingdom,Hair Loss Group,124,32,348,472,0.06779661016949153
+2019-10-01,10,October,2019,United Kingdom,Hair Loss Group,277,50,440,717,0.0697350069735007
+2019-11-01,11,November,2019,United Kingdom,Hair Loss Group,200,52,667,867,0.05997693194925029
+2019-12-01,12,December,2019,United Kingdom,Hair Loss Group,108,68,815,923,0.07367280606717226
+2020-01-01,1,January,2020,United Kingdom,Hair Loss Group,113,103,855,968,0.10640495867768596
+2020-02-01,2,February,2020,United Kingdom,Hair Loss Group,249,71,865,1114,0.06373429084380611
+2020-03-01,3,March,2020,United Kingdom,Hair Loss Group,357,95,1043,1400,0.06785714285714285
+2020-04-01,4,April,2020,United Kingdom,Hair Loss Group,639,132,1305,1944,0.06790123456790123
+2020-05-01,5,May,2020,United Kingdom,Hair Loss Group,551,175,1812,2363,0.07405840033855268
+2020-06-01,6,June,2020,United Kingdom,Hair Loss Group,490,197,2188,2678,0.07356235997012696
+2020-07-01,7,July,2020,United Kingdom,Hair Loss Group,437,171,2481,2918,0.05860178204249486
+2020-08-01,8,August,2020,United Kingdom,Hair Loss Group,461,185,2747,3208,0.05766832917705736
+2020-09-01,9,September,2020,United Kingdom,Hair Loss Group,479,221,3023,3502,0.06310679611650485
+2020-10-01,10,October,2020,United Kingdom,Hair Loss Group,549,217,3281,3830,0.056657963446475196
+2020-11-01,11,November,2020,United Kingdom,Hair Loss Group,935,269,3613,4548,0.05914687774846086
+2020-12-01,12,December,2020,United Kingdom,Hair Loss Group,1041,300,4279,5320,0.05639097744360902
+2021-01-01,1,January,2021,United Kingdom,Hair Loss Group,1330,369,5020,6350,0.05811023622047244
+2021-02-01,2,February,2021,United Kingdom,Hair Loss Group,1443,429,5981,7424,0.05778556034482758
+2021-03-01,3,March,2021,United Kingdom,Hair Loss Group,1598,546,6995,8593,0.06354009077155824
+2021-04-01,4,April,2021,United Kingdom,Hair Loss Group,1653,632,8047,9700,0.06515463917525773
+2021-05-01,5,May,2021,United Kingdom,Hair Loss Group,1883,736,9068,10951,0.06720847411195324
+2021-06-01,6,June,2021,United Kingdom,Hair Loss Group,1428,759,10215,11643,0.06518938417933522
+2021-07-01,7,July,2021,United Kingdom,Hair Loss Group,1646,882,10884,12530,0.07039106145251396
+2021-08-01,8,August,2021,United Kingdom,Hair Loss Group,1775,862,11648,13423,0.06421813305520375
+2021-09-01,9,September,2021,United Kingdom,Hair Loss Group,1530,948,12561,14091,0.06727698530977219
+2021-10-01,10,October,2021,United Kingdom,Hair Loss Group,1775,989,13143,14918,0.06629575010054967
+2021-11-01,11,November,2021,United Kingdom,Hair Loss Group,2044,1163,13929,15973,0.07281036749514806
+2021-12-01,12,December,2021,United Kingdom,Hair Loss Group,1938,1091,14810,16748,0.06514210652018151
+2022-01-01,1,January,2022,United Kingdom,Hair Loss Group,2575,1228,15657,18232,0.06735410267661254
+2022-02-01,2,February,2022,United Kingdom,Hair Loss Group,2215,1140,17004,19219,0.05931630157656486
+2022-03-01,3,March,2022,United Kingdom,Hair Loss Group,2686,1388,18079,20765,0.06684324584637612
+2022-04-01,4,April,2022,United Kingdom,Hair Loss Group,2638,1317,19377,22015,0.059822848058142176
+2022-05-01,5,May,2022,United Kingdom,Hair Loss Group,2540,1540,20698,23238,0.06627076340476805
+2022-06-01,6,June,2022,United Kingdom,Hair Loss Group,2339,1497,21698,24037,0.062278986562382996
+2022-07-01,7,July,2022,United Kingdom,Hair Loss Group,2777,1584,22540,25317,0.06256665481692143
+2022-08-01,8,August,2022,United Kingdom,Hair Loss Group,4056,1671,23733,27789,0.06013170679045666
+2022-09-01,9,September,2022,United Kingdom,Hair Loss Group,3929,1840,26118,30047,0.06123739474822778
+2022-10-01,10,October,2022,United Kingdom,Hair Loss Group,3556,1972,28207,31763,0.062084815666026506
+2022-11-01,11,November,2022,United Kingdom,Hair Loss Group,3130,2338,29791,32921,0.0710184988305337
+2022-12-01,12,December,2022,United Kingdom,Hair Loss Group,2663,2221,30583,33246,0.06680502917644228
+2023-01-01,1,January,2023,United Kingdom,Hair Loss Group,2982,2385,31025,34007,0.07013261975475638
+2023-02-01,2,February,2023,United Kingdom,Hair Loss Group,2330,1949,31622,33952,0.05740457115928369
+2023-03-01,3,March,2023,United Kingdom,Hair Loss Group,2945,2150,32003,34948,0.06151997253061692
+2023-04-01,4,April,2023,United Kingdom,Hair Loss Group,2702,1882,32798,35500,0.05301408450704225
+2023-05-01,5,May,2023,United Kingdom,Hair Loss Group,2627,2101,33618,36245,0.05796661608497724
+2023-06-01,6,June,2023,United Kingdom,Hair Loss Group,2453,2171,34144,36597,0.059321802333524604
+2023-07-01,7,July,2023,United Kingdom,Hair Loss Group,2871,2106,34426,37297,0.056465667479958175
+2023-08-01,8,August,2023,United Kingdom,Hair Loss Group,3049,2238,35191,38240,0.05852510460251046
+2023-09-01,9,September,2023,United Kingdom,Hair Loss Group,2807,2213,36002,38809,0.05702285552320338
+2023-10-01,10,October,2023,United Kingdom,Hair Loss Group,3032,2310,36596,39628,0.0582921166851721
+2023-11-01,11,November,2023,United Kingdom,Hair Loss Group,3184,2370,37318,40502,0.05851562885783418
+2023-12-01,12,December,2023,United Kingdom,Hair Loss Group,2445,2182,38132,40577,0.05377430564112674
+2024-01-01,1,January,2024,United Kingdom,Hair Loss Group,3203,2702,38395,41598,0.06495504591566902
+2024-02-01,2,February,2024,United Kingdom,Hair Loss Group,2670,2394,38896,41566,0.05759514988211519
+2024-03-01,3,March,2024,United Kingdom,Hair Loss Group,2927,2589,39172,42099,0.06149789781229958
+2024-04-01,4,April,2024,United Kingdom,Hair Loss Group,3048,2470,39510,42558,0.058038441656092864
+2024-05-01,5,May,2024,United Kingdom,Hair Loss Group,3115,2862,40088,43203,0.06624539962502604
+2024-06-01,6,June,2024,United Kingdom,Hair Loss Group,2895,2878,40341,43236,0.06656489962068647
+2024-07-01,7,July,2024,United Kingdom,Hair Loss Group,3025,28302,40358,43383,0.6523753544014936
+2024-08-01,8,August,2024,United Kingdom,Hair Loss Group,106,15187,15081,15187,1.0
+2024-09-01,9,September,2024,United Kingdom,Hair Loss Group,0,0,0,0,-nan
+2024-10-01,10,October,2024,United Kingdom,Hair Loss Group,0,0,0,0,-nan
+2024-11-01,11,November,2024,United Kingdom,Hair Loss Group,0,0,0,0,-nan
+2019-01-01,1,January,2019,United Kingdom,Sleep Group,0,0,,0,-nan
+2019-02-01,2,February,2019,United Kingdom,Sleep Group,0,0,0,0,-nan
+2019-03-01,3,March,2019,United Kingdom,Sleep Group,0,0,0,0,-nan
+2019-04-01,4,April,2019,United Kingdom,Sleep Group,0,0,0,0,-nan
+2019-05-01,5,May,2019,United Kingdom,Sleep Group,0,0,0,0,-nan
+2019-06-01,6,June,2019,United Kingdom,Sleep Group,0,0,0,0,-nan
+2019-07-01,7,July,2019,United Kingdom,Sleep Group,0,0,0,0,-nan
+2019-08-01,8,August,2019,United Kingdom,Sleep Group,0,0,0,0,-nan
+2019-09-01,9,September,2019,United Kingdom,Sleep Group,0,0,0,0,-nan
+2019-10-01,10,October,2019,United Kingdom,Sleep Group,0,0,0,0,-nan
+2019-11-01,11,November,2019,United Kingdom,Sleep Group,0,0,0,0,-nan
+2019-12-01,12,December,2019,United Kingdom,Sleep Group,0,0,0,0,-nan
+2020-01-01,1,January,2020,United Kingdom,Sleep Group,0,0,0,0,-nan
+2020-02-01,2,February,2020,United Kingdom,Sleep Group,0,0,0,0,-nan
+2020-03-01,3,March,2020,United Kingdom,Sleep Group,0,0,0,0,-nan
+2020-04-01,4,April,2020,United Kingdom,Sleep Group,0,0,0,0,-nan
+2020-05-01,5,May,2020,United Kingdom,Sleep Group,0,0,0,0,-nan
+2020-06-01,6,June,2020,United Kingdom,Sleep Group,0,0,0,0,-nan
+2020-07-01,7,July,2020,United Kingdom,Sleep Group,4,0,0,4,0.0
+2020-08-01,8,August,2020,United Kingdom,Sleep Group,1,3,4,5,0.6
+2020-09-01,9,September,2020,United Kingdom,Sleep Group,4,1,2,6,0.16666666666666666
+2020-10-01,10,October,2020,United Kingdom,Sleep Group,5,3,5,10,0.3
+2020-11-01,11,November,2020,United Kingdom,Sleep Group,13,2,7,20,0.1
+2020-12-01,12,December,2020,United Kingdom,Sleep Group,33,6,18,51,0.11764705882352941
+2021-01-01,1,January,2021,United Kingdom,Sleep Group,46,15,45,91,0.16483516483516483
+2021-02-01,2,February,2021,United Kingdom,Sleep Group,56,22,76,132,0.16666666666666666
+2021-03-01,3,March,2021,United Kingdom,Sleep Group,103,54,110,213,0.2535211267605634
+2021-04-01,4,April,2021,United Kingdom,Sleep Group,83,54,159,242,0.2231404958677686
+2021-05-01,5,May,2021,United Kingdom,Sleep Group,110,49,188,298,0.1644295302013423
+2021-06-01,6,June,2021,United Kingdom,Sleep Group,88,73,249,337,0.2166172106824926
+2021-07-01,7,July,2021,United Kingdom,Sleep Group,88,71,264,352,0.20170454545454544
+2021-08-01,8,August,2021,United Kingdom,Sleep Group,84,71,281,365,0.19452054794520549
+2021-09-01,9,September,2021,United Kingdom,Sleep Group,41,55,294,335,0.16417910447761194
+2021-10-01,10,October,2021,United Kingdom,Sleep Group,94,61,280,374,0.16310160427807488
+2021-11-01,11,November,2021,United Kingdom,Sleep Group,198,80,313,511,0.15655577299412915
+2021-12-01,12,December,2021,United Kingdom,Sleep Group,73,111,431,504,0.22023809523809523
+2022-01-01,1,January,2022,United Kingdom,Sleep Group,154,82,393,547,0.14990859232175502
+2022-02-01,2,February,2022,United Kingdom,Sleep Group,174,83,465,639,0.1298904538341158
+2022-03-01,3,March,2022,United Kingdom,Sleep Group,120,133,556,676,0.19674556213017752
+2022-04-01,4,April,2022,United Kingdom,Sleep Group,50,96,543,593,0.16188870151770657
+2022-05-01,5,May,2022,United Kingdom,Sleep Group,13,53,497,510,0.10392156862745099
+2022-06-01,6,June,2022,United Kingdom,Sleep Group,11,28,457,468,0.05982905982905983
+2022-07-01,7,July,2022,United Kingdom,Sleep Group,9,13,440,449,0.028953229398663696
+2022-08-01,8,August,2022,United Kingdom,Sleep Group,20,14,436,456,0.03070175438596491
+2022-09-01,9,September,2022,United Kingdom,Sleep Group,12,21,442,454,0.046255506607929514
+2022-10-01,10,October,2022,United Kingdom,Sleep Group,16,21,433,449,0.0467706013363029
+2022-11-01,11,November,2022,United Kingdom,Sleep Group,20,19,428,448,0.04241071428571429
+2022-12-01,12,December,2022,United Kingdom,Sleep Group,5,8,429,434,0.018433179723502304
+2023-01-01,1,January,2023,United Kingdom,Sleep Group,12,9,426,438,0.02054794520547945
+2023-02-01,2,February,2023,United Kingdom,Sleep Group,7,15,429,436,0.034403669724770644
+2023-03-01,3,March,2023,United Kingdom,Sleep Group,9,14,421,430,0.03255813953488372
+2023-04-01,4,April,2023,United Kingdom,Sleep Group,6,11,416,422,0.026066350710900472
+2023-05-01,5,May,2023,United Kingdom,Sleep Group,8,9,411,419,0.021479713603818614
+2023-06-01,6,June,2023,United Kingdom,Sleep Group,4,5,410,414,0.012077294685990338
+2023-07-01,7,July,2023,United Kingdom,Sleep Group,4,7,409,413,0.01694915254237288
+2023-08-01,8,August,2023,United Kingdom,Sleep Group,1,7,406,407,0.0171990171990172
+2023-09-01,9,September,2023,United Kingdom,Sleep Group,7,5,400,407,0.012285012285012284
+2023-10-01,10,October,2023,United Kingdom,Sleep Group,7,11,402,409,0.02689486552567237
+2023-11-01,11,November,2023,United Kingdom,Sleep Group,2,5,398,400,0.0125
+2023-12-01,12,December,2023,United Kingdom,Sleep Group,8,11,395,403,0.02729528535980149
+2024-01-01,1,January,2024,United Kingdom,Sleep Group,6,9,392,398,0.022613065326633167
+2024-02-01,2,February,2024,United Kingdom,Sleep Group,9,9,389,398,0.022613065326633167
+2024-03-01,3,March,2024,United Kingdom,Sleep Group,3,5,389,392,0.012755102040816327
+2024-04-01,4,April,2024,United Kingdom,Sleep Group,3,9,387,390,0.023076923076923078
+2024-05-01,5,May,2024,United Kingdom,Sleep Group,8,7,381,389,0.017994858611825194
+2024-06-01,6,June,2024,United Kingdom,Sleep Group,5,10,382,387,0.025839793281653745
+2024-07-01,7,July,2024,United Kingdom,Sleep Group,5,335,377,382,0.8769633507853403
+2024-08-01,8,August,2024,United Kingdom,Sleep Group,0,47,47,47,1.0
+2024-09-01,9,September,2024,United Kingdom,Sleep Group,0,0,0,0,-nan
+2024-10-01,10,October,2024,United Kingdom,Sleep Group,0,0,0,0,-nan
+2024-11-01,11,November,2024,United Kingdom,Sleep Group,0,0,0,0,-nan
+2019-01-01,1,January,2019,Brazil,Hair Loss Group,0,0,,0,-nan
+2019-02-01,2,February,2019,Brazil,Hair Loss Group,0,0,0,0,-nan
+2019-03-01,3,March,2019,Brazil,Hair Loss Group,0,0,0,0,-nan
+2019-04-01,4,April,2019,Brazil,Hair Loss Group,0,0,0,0,-nan
+2019-05-01,5,May,2019,Brazil,Hair Loss Group,0,0,0,0,-nan
+2019-06-01,6,June,2019,Brazil,Hair Loss Group,0,0,0,0,-nan
+2019-07-01,7,July,2019,Brazil,Hair Loss Group,0,0,0,0,-nan
+2019-08-01,8,August,2019,Brazil,Hair Loss Group,0,0,0,0,-nan
+2019-09-01,9,September,2019,Brazil,Hair Loss Group,0,0,0,0,-nan
+2019-10-01,10,October,2019,Brazil,Hair Loss Group,0,0,0,0,-nan
+2019-11-01,11,November,2019,Brazil,Hair Loss Group,0,0,0,0,-nan
+2019-12-01,12,December,2019,Brazil,Hair Loss Group,0,0,0,0,-nan
+2020-01-01,1,January,2020,Brazil,Hair Loss Group,0,0,0,0,-nan
+2020-02-01,2,February,2020,Brazil,Hair Loss Group,0,0,0,0,-nan
+2020-03-01,3,March,2020,Brazil,Hair Loss Group,0,0,0,0,-nan
+2020-04-01,4,April,2020,Brazil,Hair Loss Group,0,0,0,0,-nan
+2020-05-01,5,May,2020,Brazil,Hair Loss Group,0,0,0,0,-nan
+2020-06-01,6,June,2020,Brazil,Hair Loss Group,0,0,0,0,-nan
+2020-07-01,7,July,2020,Brazil,Hair Loss Group,0,0,0,0,-nan
+2020-08-01,8,August,2020,Brazil,Hair Loss Group,0,0,0,0,-nan
+2020-09-01,9,September,2020,Brazil,Hair Loss Group,0,0,0,0,-nan
+2020-10-01,10,October,2020,Brazil,Hair Loss Group,16,1,0,16,0.0625
+2020-11-01,11,November,2020,Brazil,Hair Loss Group,55,0,15,70,0.0
+2020-12-01,12,December,2020,Brazil,Hair Loss Group,134,1,70,204,0.004901960784313725
+2021-01-01,1,January,2021,Brazil,Hair Loss Group,382,7,203,585,0.011965811965811967
+2021-02-01,2,February,2021,Brazil,Hair Loss Group,432,33,578,1010,0.032673267326732675
+2021-03-01,3,March,2021,Brazil,Hair Loss Group,874,76,977,1851,0.041058887088060506
+2021-04-01,4,April,2021,Brazil,Hair Loss Group,1340,133,1775,3115,0.04269662921348315
+2021-05-01,5,May,2021,Brazil,Hair Loss Group,1378,199,2982,4360,0.04564220183486239
+2021-06-01,6,June,2021,Brazil,Hair Loss Group,1872,297,4161,6033,0.04922923918448533
+2021-07-01,7,July,2021,Brazil,Hair Loss Group,2123,472,5736,7859,0.060058531619798954
+2021-08-01,8,August,2021,Brazil,Hair Loss Group,3053,562,7387,10440,0.05383141762452107
+2021-09-01,9,September,2021,Brazil,Hair Loss Group,2305,837,9878,12183,0.06870229007633588
+2021-10-01,10,October,2021,Brazil,Hair Loss Group,2805,997,11346,14151,0.07045438484912726
+2021-11-01,11,November,2021,Brazil,Hair Loss Group,2916,1434,13154,16070,0.08923459863098943
+2021-12-01,12,December,2021,Brazil,Hair Loss Group,3570,1190,14636,18206,0.06536306712072942
+2022-01-01,1,January,2022,Brazil,Hair Loss Group,4189,1385,17016,21205,0.06531478424899788
+2022-02-01,2,February,2022,Brazil,Hair Loss Group,3736,1554,19820,23556,0.06597045338767193
+2022-03-01,3,March,2022,Brazil,Hair Loss Group,4943,1863,22002,26945,0.06914084245685656
+2022-04-01,4,April,2022,Brazil,Hair Loss Group,5341,1920,25082,30423,0.06311014692831082
+2022-05-01,5,May,2022,Brazil,Hair Loss Group,5226,2145,28503,33729,0.06359512585608823
+2022-06-01,6,June,2022,Brazil,Hair Loss Group,5312,2419,31584,36896,0.06556266261925411
+2022-07-01,7,July,2022,Brazil,Hair Loss Group,6030,2632,34477,40507,0.06497642382798034
+2022-08-01,8,August,2022,Brazil,Hair Loss Group,6626,2908,37875,44501,0.06534684613828903
+2022-09-01,9,September,2022,Brazil,Hair Loss Group,6690,2722,41593,48283,0.05637595012737402
+2022-10-01,10,October,2022,Brazil,Hair Loss Group,6285,3151,45561,51846,0.06077614473633453
+2022-11-01,11,November,2022,Brazil,Hair Loss Group,6462,3344,48695,55157,0.06062693765070617
+2022-12-01,12,December,2022,Brazil,Hair Loss Group,5788,3418,51813,57601,0.05933924758250725
+2023-01-01,1,January,2023,Brazil,Hair Loss Group,6856,3815,54183,61039,0.06250102393551664
+2023-02-01,2,February,2023,Brazil,Hair Loss Group,5888,3467,57224,63112,0.054934085435416405
+2023-03-01,3,March,2023,Brazil,Hair Loss Group,6780,3955,59645,66425,0.05954083552879187
+2023-04-01,4,April,2023,Brazil,Hair Loss Group,6604,3899,62470,69074,0.05644670932622984
+2023-05-01,5,May,2023,Brazil,Hair Loss Group,7289,4422,65175,72464,0.06102340472510488
+2023-06-01,6,June,2023,Brazil,Hair Loss Group,7186,4376,68042,75228,0.05816983038230446
+2023-07-01,7,July,2023,Brazil,Hair Loss Group,9353,4499,70852,80205,0.05609375974066455
+2023-08-01,8,August,2023,Brazil,Hair Loss Group,9274,4582,75706,84980,0.053918569075076486
+2023-09-01,9,September,2023,Brazil,Hair Loss Group,8142,4950,80398,88540,0.05590693471877118
+2023-10-01,10,October,2023,Brazil,Hair Loss Group,9323,6206,83590,92913,0.06679366719404174
+2023-11-01,11,November,2023,Brazil,Hair Loss Group,10766,5779,86707,97473,0.05928821314620459
+2023-12-01,12,December,2023,Brazil,Hair Loss Group,9931,6360,91694,101625,0.06258302583025831
+2024-01-01,1,January,2024,Brazil,Hair Loss Group,12255,7309,95265,107520,0.0679780505952381
+2024-02-01,2,February,2024,Brazil,Hair Loss Group,9562,7164,100211,109773,0.06526194965975239
+2024-03-01,3,March,2024,Brazil,Hair Loss Group,10284,8421,102609,112893,0.0745927559724695
+2024-04-01,4,April,2024,Brazil,Hair Loss Group,10277,7891,104472,114749,0.0687674838124951
+2024-05-01,5,May,2024,Brazil,Hair Loss Group,11758,7720,106858,118616,0.06508396843596143
+2024-06-01,6,June,2024,Brazil,Hair Loss Group,11730,9857,110896,122626,0.08038262684911845
+2024-07-01,7,July,2024,Brazil,Hair Loss Group,11649,87082,112769,124418,0.6999148033242778
+2024-08-01,8,August,2024,Brazil,Hair Loss Group,341,37677,37336,37677,1.0
+2024-09-01,9,September,2024,Brazil,Hair Loss Group,0,0,0,0,-nan
+2024-10-01,10,October,2024,Brazil,Hair Loss Group,0,0,0,0,-nan
+2024-11-01,11,November,2024,Brazil,Hair Loss Group,0,0,0,0,-nan
+2019-01-01,1,January,2019,Brazil,Sleep Group,0,0,,0,-nan
+2019-02-01,2,February,2019,Brazil,Sleep Group,0,0,0,0,-nan
+2019-03-01,3,March,2019,Brazil,Sleep Group,0,0,0,0,-nan
+2019-04-01,4,April,2019,Brazil,Sleep Group,0,0,0,0,-nan
+2019-05-01,5,May,2019,Brazil,Sleep Group,0,0,0,0,-nan
+2019-06-01,6,June,2019,Brazil,Sleep Group,0,0,0,0,-nan
+2019-07-01,7,July,2019,Brazil,Sleep Group,0,0,0,0,-nan
+2019-08-01,8,August,2019,Brazil,Sleep Group,0,0,0,0,-nan
+2019-09-01,9,September,2019,Brazil,Sleep Group,0,0,0,0,-nan
+2019-10-01,10,October,2019,Brazil,Sleep Group,0,0,0,0,-nan
+2019-11-01,11,November,2019,Brazil,Sleep Group,0,0,0,0,-nan
+2019-12-01,12,December,2019,Brazil,Sleep Group,0,0,0,0,-nan
+2020-01-01,1,January,2020,Brazil,Sleep Group,0,0,0,0,-nan
+2020-02-01,2,February,2020,Brazil,Sleep Group,0,0,0,0,-nan
+2020-03-01,3,March,2020,Brazil,Sleep Group,0,0,0,0,-nan
+2020-04-01,4,April,2020,Brazil,Sleep Group,0,0,0,0,-nan
+2020-05-01,5,May,2020,Brazil,Sleep Group,0,0,0,0,-nan
+2020-06-01,6,June,2020,Brazil,Sleep Group,0,0,0,0,-nan
+2020-07-01,7,July,2020,Brazil,Sleep Group,0,0,0,0,-nan
+2020-08-01,8,August,2020,Brazil,Sleep Group,0,0,0,0,-nan
+2020-09-01,9,September,2020,Brazil,Sleep Group,0,0,0,0,-nan
+2020-10-01,10,October,2020,Brazil,Sleep Group,0,0,0,0,-nan
+2020-11-01,11,November,2020,Brazil,Sleep Group,0,0,0,0,-nan
+2020-12-01,12,December,2020,Brazil,Sleep Group,0,0,0,0,-nan
+2021-01-01,1,January,2021,Brazil,Sleep Group,0,0,0,0,-nan
+2021-02-01,2,February,2021,Brazil,Sleep Group,0,0,0,0,-nan
+2021-03-01,3,March,2021,Brazil,Sleep Group,0,0,0,0,-nan
+2021-04-01,4,April,2021,Brazil,Sleep Group,0,0,0,0,-nan
+2021-05-01,5,May,2021,Brazil,Sleep Group,0,0,0,0,-nan
+2021-06-01,6,June,2021,Brazil,Sleep Group,0,0,0,0,-nan
+2021-07-01,7,July,2021,Brazil,Sleep Group,0,0,0,0,-nan
+2021-08-01,8,August,2021,Brazil,Sleep Group,0,0,0,0,-nan
+2021-09-01,9,September,2021,Brazil,Sleep Group,0,0,0,0,-nan
+2021-10-01,10,October,2021,Brazil,Sleep Group,0,0,0,0,-nan
+2021-11-01,11,November,2021,Brazil,Sleep Group,0,0,0,0,-nan
+2021-12-01,12,December,2021,Brazil,Sleep Group,2,0,0,2,0.0
+2022-01-01,1,January,2022,Brazil,Sleep Group,13,1,2,15,0.06666666666666667
+2022-02-01,2,February,2022,Brazil,Sleep Group,27,3,14,41,0.07317073170731707
+2022-03-01,3,March,2022,Brazil,Sleep Group,12,4,38,50,0.08
+2022-04-01,4,April,2022,Brazil,Sleep Group,37,7,46,83,0.08433734939759036
+2022-05-01,5,May,2022,Brazil,Sleep Group,34,30,76,110,0.2727272727272727
+2022-06-01,6,June,2022,Brazil,Sleep Group,12,20,80,92,0.21739130434782608
+2022-07-01,7,July,2022,Brazil,Sleep Group,13,5,72,85,0.058823529411764705
+2022-08-01,8,August,2022,Brazil,Sleep Group,15,22,80,95,0.23157894736842105
+2022-09-01,9,September,2022,Brazil,Sleep Group,16,4,73,89,0.0449438202247191
+2022-10-01,10,October,2022,Brazil,Sleep Group,15,13,85,100,0.13
+2022-11-01,11,November,2022,Brazil,Sleep Group,8,10,87,95,0.10526315789473684
+2022-12-01,12,December,2022,Brazil,Sleep Group,8,17,85,93,0.1827956989247312
+2023-01-01,1,January,2023,Brazil,Sleep Group,17,7,76,93,0.07526881720430108
+2023-02-01,2,February,2023,Brazil,Sleep Group,17,11,86,103,0.10679611650485436
+2023-03-01,3,March,2023,Brazil,Sleep Group,21,8,92,113,0.07079646017699115
+2023-04-01,4,April,2023,Brazil,Sleep Group,17,14,105,122,0.11475409836065574
+2023-05-01,5,May,2023,Brazil,Sleep Group,15,26,108,123,0.21138211382113822
+2023-06-01,6,June,2023,Brazil,Sleep Group,6,9,97,103,0.08737864077669903
+2023-07-01,7,July,2023,Brazil,Sleep Group,12,13,94,106,0.12264150943396226
+2023-08-01,8,August,2023,Brazil,Sleep Group,8,19,93,101,0.18811881188118812
+2023-09-01,9,September,2023,Brazil,Sleep Group,7,6,82,89,0.06741573033707865
+2023-10-01,10,October,2023,Brazil,Sleep Group,5,4,83,88,0.045454545454545456
+2023-11-01,11,November,2023,Brazil,Sleep Group,7,5,84,91,0.054945054945054944
+2023-12-01,12,December,2023,Brazil,Sleep Group,6,10,86,92,0.10869565217391304
+2024-01-01,1,January,2024,Brazil,Sleep Group,7,8,82,89,0.0898876404494382
+2024-02-01,2,February,2024,Brazil,Sleep Group,15,11,81,96,0.11458333333333333
+2024-03-01,3,March,2024,Brazil,Sleep Group,11,14,85,96,0.14583333333333334
+2024-04-01,4,April,2024,Brazil,Sleep Group,9,9,82,91,0.0989010989010989
+2024-05-01,5,May,2024,Brazil,Sleep Group,12,9,82,94,0.09574468085106383
+2024-06-01,6,June,2024,Brazil,Sleep Group,9,11,85,94,0.11702127659574468
+2024-07-01,7,July,2024,Brazil,Sleep Group,11,56,83,94,0.5957446808510638
+2024-08-01,8,August,2024,Brazil,Sleep Group,1,39,38,39,1.0
+2024-09-01,9,September,2024,Brazil,Sleep Group,0,0,0,0,-nan
+2024-10-01,10,October,2024,Brazil,Sleep Group,0,0,0,0,-nan
+2024-11-01,11,November,2024,Brazil,Sleep Group,0,0,0,0,-nan
+2019-01-01,1,January,2019,Brazil,ED Group,0,0,,0,-nan
+2019-02-01,2,February,2019,Brazil,ED Group,0,0,0,0,-nan
+2019-03-01,3,March,2019,Brazil,ED Group,0,0,0,0,-nan
+2019-04-01,4,April,2019,Brazil,ED Group,0,0,0,0,-nan
+2019-05-01,5,May,2019,Brazil,ED Group,0,0,0,0,-nan
+2019-06-01,6,June,2019,Brazil,ED Group,0,0,0,0,-nan
+2019-07-01,7,July,2019,Brazil,ED Group,0,0,0,0,-nan
+2019-08-01,8,August,2019,Brazil,ED Group,0,0,0,0,-nan
+2019-09-01,9,September,2019,Brazil,ED Group,0,0,0,0,-nan
+2019-10-01,10,October,2019,Brazil,ED Group,0,0,0,0,-nan
+2019-11-01,11,November,2019,Brazil,ED Group,0,0,0,0,-nan
+2019-12-01,12,December,2019,Brazil,ED Group,0,0,0,0,-nan
+2020-01-01,1,January,2020,Brazil,ED Group,0,0,0,0,-nan
+2020-02-01,2,February,2020,Brazil,ED Group,0,0,0,0,-nan
+2020-03-01,3,March,2020,Brazil,ED Group,0,0,0,0,-nan
+2020-04-01,4,April,2020,Brazil,ED Group,0,0,0,0,-nan
+2020-05-01,5,May,2020,Brazil,ED Group,0,0,0,0,-nan
+2020-06-01,6,June,2020,Brazil,ED Group,0,0,0,0,-nan
+2020-07-01,7,July,2020,Brazil,ED Group,0,0,0,0,-nan
+2020-08-01,8,August,2020,Brazil,ED Group,0,0,0,0,-nan
+2020-09-01,9,September,2020,Brazil,ED Group,0,0,0,0,-nan
+2020-10-01,10,October,2020,Brazil,ED Group,0,0,0,0,-nan
+2020-11-01,11,November,2020,Brazil,ED Group,0,0,0,0,-nan
+2020-12-01,12,December,2020,Brazil,ED Group,0,0,0,0,-nan
+2021-01-01,1,January,2021,Brazil,ED Group,0,0,0,0,-nan
+2021-02-01,2,February,2021,Brazil,ED Group,0,0,0,0,-nan
+2021-03-01,3,March,2021,Brazil,ED Group,0,0,0,0,-nan
+2021-04-01,4,April,2021,Brazil,ED Group,0,0,0,0,-nan
+2021-05-01,5,May,2021,Brazil,ED Group,0,0,0,0,-nan
+2021-06-01,6,June,2021,Brazil,ED Group,0,0,0,0,-nan
+2021-07-01,7,July,2021,Brazil,ED Group,0,0,0,0,-nan
+2021-08-01,8,August,2021,Brazil,ED Group,0,0,0,0,-nan
+2021-09-01,9,September,2021,Brazil,ED Group,0,0,0,0,-nan
+2021-10-01,10,October,2021,Brazil,ED Group,0,0,0,0,-nan
+2021-11-01,11,November,2021,Brazil,ED Group,0,0,0,0,-nan
+2021-12-01,12,December,2021,Brazil,ED Group,0,0,0,0,-nan
+2022-01-01,1,January,2022,Brazil,ED Group,0,0,0,0,-nan
+2022-02-01,2,February,2022,Brazil,ED Group,0,0,0,0,-nan
+2022-03-01,3,March,2022,Brazil,ED Group,0,0,0,0,-nan
+2022-04-01,4,April,2022,Brazil,ED Group,1,0,0,1,0.0
+2022-05-01,5,May,2022,Brazil,ED Group,508,10,1,509,0.019646365422396856
+2022-06-01,6,June,2022,Brazil,ED Group,581,108,499,1080,0.1
+2022-07-01,7,July,2022,Brazil,ED Group,453,177,972,1425,0.12421052631578948
+2022-08-01,8,August,2022,Brazil,ED Group,622,227,1248,1870,0.1213903743315508
+2022-09-01,9,September,2022,Brazil,ED Group,753,238,1643,2396,0.0993322203672788
+2022-10-01,10,October,2022,Brazil,ED Group,857,291,2158,3015,0.09651741293532339
+2022-11-01,11,November,2022,Brazil,ED Group,700,377,2724,3424,0.11010514018691589
+2022-12-01,12,December,2022,Brazil,ED Group,522,442,3047,3569,0.12384421406556459
+2023-01-01,1,January,2023,Brazil,ED Group,546,436,3127,3673,0.11870405662945821
+2023-02-01,2,February,2023,Brazil,ED Group,648,396,3237,3885,0.10193050193050193
+2023-03-01,3,March,2023,Brazil,ED Group,791,462,3489,4280,0.10794392523364486
+2023-04-01,4,April,2023,Brazil,ED Group,608,462,3818,4426,0.1043831902394939
+2023-05-01,5,May,2023,Brazil,ED Group,655,558,3964,4619,0.12080536912751678
+2023-06-01,6,June,2023,Brazil,ED Group,749,518,4061,4810,0.1076923076923077
+2023-07-01,7,July,2023,Brazil,ED Group,867,554,4292,5159,0.10738515216127156
+2023-08-01,8,August,2023,Brazil,ED Group,810,603,4605,5415,0.1113573407202216
+2023-09-01,9,September,2023,Brazil,ED Group,712,593,4812,5524,0.10734974656046344
+2023-10-01,10,October,2023,Brazil,ED Group,897,681,4931,5828,0.1168496911461908
+2023-11-01,11,November,2023,Brazil,ED Group,910,642,5147,6057,0.10599306587419514
+2023-12-01,12,December,2023,Brazil,ED Group,728,661,5415,6143,0.1076021487872375
+2024-01-01,1,January,2024,Brazil,ED Group,968,744,5482,6450,0.11534883720930232
+2024-02-01,2,February,2024,Brazil,ED Group,886,746,5706,6592,0.11316747572815535
+2024-03-01,3,March,2024,Brazil,ED Group,794,733,5846,6640,0.11039156626506023
+2024-04-01,4,April,2024,Brazil,ED Group,235,759,5907,6142,0.12357538261152719
+2024-05-01,5,May,2024,Brazil,ED Group,180,600,5383,5563,0.10785547366528851
+2024-06-01,6,June,2024,Brazil,ED Group,107,649,4963,5070,0.1280078895463511
+2024-07-01,7,July,2024,Brazil,ED Group,141,2726,4421,4562,0.5975449364313897
+2024-08-01,8,August,2024,Brazil,ED Group,0,1836,1836,1836,1.0
+2024-09-01,9,September,2024,Brazil,ED Group,0,0,0,0,-nan
+2024-10-01,10,October,2024,Brazil,ED Group,0,0,0,0,-nan
+2024-11-01,11,November,2024,Brazil,ED Group,0,0,0,0,-nan
+2019-01-01,1,January,2019,United Kingdom,Weight Loss Group,0,0,,0,-nan
+2019-02-01,2,February,2019,United Kingdom,Weight Loss Group,0,0,0,0,-nan
+2019-03-01,3,March,2019,United Kingdom,Weight Loss Group,0,0,0,0,-nan
+2019-04-01,4,April,2019,United Kingdom,Weight Loss Group,0,0,0,0,-nan
+2019-05-01,5,May,2019,United Kingdom,Weight Loss Group,0,0,0,0,-nan
+2019-06-01,6,June,2019,United Kingdom,Weight Loss Group,0,0,0,0,-nan
+2019-07-01,7,July,2019,United Kingdom,Weight Loss Group,0,0,0,0,-nan
+2019-08-01,8,August,2019,United Kingdom,Weight Loss Group,0,0,0,0,-nan
+2019-09-01,9,September,2019,United Kingdom,Weight Loss Group,0,0,0,0,-nan
+2019-10-01,10,October,2019,United Kingdom,Weight Loss Group,0,0,0,0,-nan
+2019-11-01,11,November,2019,United Kingdom,Weight Loss Group,0,0,0,0,-nan
+2019-12-01,12,December,2019,United Kingdom,Weight Loss Group,0,0,0,0,-nan
+2020-01-01,1,January,2020,United Kingdom,Weight Loss Group,0,0,0,0,-nan
+2020-02-01,2,February,2020,United Kingdom,Weight Loss Group,0,0,0,0,-nan
+2020-03-01,3,March,2020,United Kingdom,Weight Loss Group,0,0,0,0,-nan
+2020-04-01,4,April,2020,United Kingdom,Weight Loss Group,0,0,0,0,-nan
+2020-05-01,5,May,2020,United Kingdom,Weight Loss Group,0,0,0,0,-nan
+2020-06-01,6,June,2020,United Kingdom,Weight Loss Group,0,0,0,0,-nan
+2020-07-01,7,July,2020,United Kingdom,Weight Loss Group,0,0,0,0,-nan
+2020-08-01,8,August,2020,United Kingdom,Weight Loss Group,0,0,0,0,-nan
+2020-09-01,9,September,2020,United Kingdom,Weight Loss Group,0,0,0,0,-nan
+2020-10-01,10,October,2020,United Kingdom,Weight Loss Group,0,0,0,0,-nan
+2020-11-01,11,November,2020,United Kingdom,Weight Loss Group,0,0,0,0,-nan
+2020-12-01,12,December,2020,United Kingdom,Weight Loss Group,0,0,0,0,-nan
+2021-01-01,1,January,2021,United Kingdom,Weight Loss Group,0,0,0,0,-nan
+2021-02-01,2,February,2021,United Kingdom,Weight Loss Group,0,0,0,0,-nan
+2021-03-01,3,March,2021,United Kingdom,Weight Loss Group,0,0,0,0,-nan
+2021-04-01,4,April,2021,United Kingdom,Weight Loss Group,0,0,0,0,-nan
+2021-05-01,5,May,2021,United Kingdom,Weight Loss Group,0,0,0,0,-nan
+2021-06-01,6,June,2021,United Kingdom,Weight Loss Group,0,0,0,0,-nan
+2021-07-01,7,July,2021,United Kingdom,Weight Loss Group,0,0,0,0,-nan
+2021-08-01,8,August,2021,United Kingdom,Weight Loss Group,0,0,0,0,-nan
+2021-09-01,9,September,2021,United Kingdom,Weight Loss Group,0,0,0,0,-nan
+2021-10-01,10,October,2021,United Kingdom,Weight Loss Group,0,0,0,0,-nan
+2021-11-01,11,November,2021,United Kingdom,Weight Loss Group,0,0,0,0,-nan
+2021-12-01,12,December,2021,United Kingdom,Weight Loss Group,0,0,0,0,-nan
+2022-01-01,1,January,2022,United Kingdom,Weight Loss Group,0,0,0,0,-nan
+2022-02-01,2,February,2022,United Kingdom,Weight Loss Group,0,0,0,0,-nan
+2022-03-01,3,March,2022,United Kingdom,Weight Loss Group,0,0,0,0,-nan
+2022-04-01,4,April,2022,United Kingdom,Weight Loss Group,0,0,0,0,-nan
+2022-05-01,5,May,2022,United Kingdom,Weight Loss Group,3,0,0,3,0.0
+2022-06-01,6,June,2022,United Kingdom,Weight Loss Group,62,3,3,65,0.046153846153846156
+2022-07-01,7,July,2022,United Kingdom,Weight Loss Group,64,31,62,126,0.24603174603174602
+2022-08-01,8,August,2022,United Kingdom,Weight Loss Group,62,28,95,157,0.17834394904458598
+2022-09-01,9,September,2022,United Kingdom,Weight Loss Group,129,39,129,258,0.1511627906976744
+2022-10-01,10,October,2022,United Kingdom,Weight Loss Group,457,107,219,676,0.15828402366863906
+2022-11-01,11,November,2022,United Kingdom,Weight Loss Group,376,178,569,945,0.18835978835978837
+2022-12-01,12,December,2022,United Kingdom,Weight Loss Group,680,181,767,1447,0.12508638562543192
+2023-01-01,1,January,2023,United Kingdom,Weight Loss Group,1365,389,1266,2631,0.14785252755606235
+2023-02-01,2,February,2023,United Kingdom,Weight Loss Group,1558,543,2242,3800,0.14289473684210527
+2023-03-01,3,March,2023,United Kingdom,Weight Loss Group,2135,836,3257,5392,0.15504451038575667
+2023-04-01,4,April,2023,United Kingdom,Weight Loss Group,1143,804,4556,5699,0.14107738199684156
+2023-05-01,5,May,2023,United Kingdom,Weight Loss Group,1384,987,4895,6279,0.15719063545150502
+2023-06-01,6,June,2023,United Kingdom,Weight Loss Group,1382,941,5292,6674,0.1409949056038358
+2023-07-01,7,July,2023,United Kingdom,Weight Loss Group,2380,1280,5733,8113,0.15777147787501541
+2023-08-01,8,August,2023,United Kingdom,Weight Loss Group,588,1012,6833,7421,0.13636976148767013
+2023-09-01,9,September,2023,United Kingdom,Weight Loss Group,1660,862,6409,8069,0.10682860329656711
+2023-10-01,10,October,2023,United Kingdom,Weight Loss Group,1006,1008,7207,8213,0.12273225374406428
+2023-11-01,11,November,2023,United Kingdom,Weight Loss Group,850,950,7205,8055,0.11793916821849783
+2023-12-01,12,December,2023,United Kingdom,Weight Loss Group,843,853,7105,7948,0.10732259687971817
+2024-01-01,1,January,2024,United Kingdom,Weight Loss Group,1901,1025,7095,8996,0.11393952867941307
+2024-02-01,2,February,2024,United Kingdom,Weight Loss Group,2642,1216,7971,10613,0.11457646282860642
+2024-03-01,3,March,2024,United Kingdom,Weight Loss Group,2985,1782,9397,12382,0.14391859150379582
+2024-04-01,4,April,2024,United Kingdom,Weight Loss Group,3542,2058,10600,14142,0.14552397114976665
+2024-05-01,5,May,2024,United Kingdom,Weight Loss Group,3299,2313,12084,15383,0.1503607878827277
+2024-06-01,6,June,2024,United Kingdom,Weight Loss Group,3473,2288,13070,16543,0.13830623224324487
+2024-07-01,7,July,2024,United Kingdom,Weight Loss Group,4394,3911,14255,18649,0.20971633867767708
+2024-08-01,8,August,2024,United Kingdom,Weight Loss Group,683,15421,14738,15421,1.0
+2024-09-01,9,September,2024,United Kingdom,Weight Loss Group,0,0,0,0,-nan
+2024-10-01,10,October,2024,United Kingdom,Weight Loss Group,0,0,0,0,-nan
+2024-11-01,11,November,2024,United Kingdom,Weight Loss Group,0,0,0,0,-nan
+2019-01-01,1,January,2019,United Kingdom,Other Group,0,0,,0,-nan
+2019-02-01,2,February,2019,United Kingdom,Other Group,0,0,0,0,-nan
+2019-03-01,3,March,2019,United Kingdom,Other Group,0,0,0,0,-nan
+2019-04-01,4,April,2019,United Kingdom,Other Group,0,0,0,0,-nan
+2019-05-01,5,May,2019,United Kingdom,Other Group,0,0,0,0,-nan
+2019-06-01,6,June,2019,United Kingdom,Other Group,8,0,0,8,0.0
+2019-07-01,7,July,2019,United Kingdom,Other Group,15,1,8,23,0.043478260869565216
+2019-08-01,8,August,2019,United Kingdom,Other Group,11,2,22,33,0.06060606060606061
+2019-09-01,9,September,2019,United Kingdom,Other Group,20,3,31,51,0.058823529411764705
+2019-10-01,10,October,2019,United Kingdom,Other Group,16,6,48,64,0.09375
+2019-11-01,11,November,2019,United Kingdom,Other Group,13,9,58,71,0.1267605633802817
+2019-12-01,12,December,2019,United Kingdom,Other Group,13,7,62,75,0.09333333333333334
+2020-01-01,1,January,2020,United Kingdom,Other Group,12,11,68,80,0.1375
+2020-02-01,2,February,2020,United Kingdom,Other Group,2,9,69,71,0.1267605633802817
+2020-03-01,3,March,2020,United Kingdom,Other Group,11,9,62,73,0.1232876712328767
+2020-04-01,4,April,2020,United Kingdom,Other Group,24,6,64,88,0.06818181818181818
+2020-05-01,5,May,2020,United Kingdom,Other Group,18,4,82,100,0.04
+2020-06-01,6,June,2020,United Kingdom,Other Group,13,6,96,109,0.05504587155963303
+2020-07-01,7,July,2020,United Kingdom,Other Group,18,13,103,121,0.10743801652892562
+2020-08-01,8,August,2020,United Kingdom,Other Group,32,8,108,140,0.05714285714285714
+2020-09-01,9,September,2020,United Kingdom,Other Group,45,16,132,177,0.0903954802259887
+2020-10-01,10,October,2020,United Kingdom,Other Group,49,15,161,210,0.07142857142857142
+2020-11-01,11,November,2020,United Kingdom,Other Group,72,15,195,267,0.056179775280898875
+2020-12-01,12,December,2020,United Kingdom,Other Group,119,18,252,371,0.04851752021563342
+2021-01-01,1,January,2021,United Kingdom,Other Group,185,55,353,538,0.10223048327137546
+2021-02-01,2,February,2021,United Kingdom,Other Group,226,82,483,709,0.1156558533145275
+2021-03-01,3,March,2021,United Kingdom,Other Group,349,119,627,976,0.12192622950819672
+2021-04-01,4,April,2021,United Kingdom,Other Group,323,172,857,1180,0.14576271186440679
+2021-05-01,5,May,2021,United Kingdom,Other Group,356,201,1008,1364,0.14736070381231672
+2021-06-01,6,June,2021,United Kingdom,Other Group,298,217,1163,1461,0.14852840520191649
+2021-07-01,7,July,2021,United Kingdom,Other Group,354,225,1244,1598,0.14080100125156444
+2021-08-01,8,August,2021,United Kingdom,Other Group,307,190,1373,1680,0.1130952380952381
+2021-09-01,9,September,2021,United Kingdom,Other Group,279,237,1490,1769,0.13397399660825324
+2021-10-01,10,October,2021,United Kingdom,Other Group,236,219,1532,1768,0.12386877828054299
+2021-11-01,11,November,2021,United Kingdom,Other Group,281,217,1549,1830,0.1185792349726776
+2021-12-01,12,December,2021,United Kingdom,Other Group,239,221,1613,1852,0.1193304535637149
+2022-01-01,1,January,2022,United Kingdom,Other Group,227,215,1631,1858,0.11571582346609258
+2022-02-01,2,February,2022,United Kingdom,Other Group,110,158,1643,1753,0.0901312036508842
+2022-03-01,3,March,2022,United Kingdom,Other Group,82,165,1595,1677,0.09838998211091235
+2022-04-01,4,April,2022,United Kingdom,Other Group,81,96,1512,1593,0.060263653483992465
+2022-05-01,5,May,2022,United Kingdom,Other Group,65,116,1497,1562,0.07426376440460948
+2022-06-01,6,June,2022,United Kingdom,Other Group,76,103,1446,1522,0.06767411300919843
+2022-07-01,7,July,2022,United Kingdom,Other Group,76,94,1419,1495,0.06287625418060201
+2022-08-01,8,August,2022,United Kingdom,Other Group,57,75,1401,1458,0.051440329218107
+2022-09-01,9,September,2022,United Kingdom,Other Group,50,58,1383,1433,0.040474528960223306
+2022-10-01,10,October,2022,United Kingdom,Other Group,77,73,1375,1452,0.05027548209366391
+2022-11-01,11,November,2022,United Kingdom,Other Group,71,78,1379,1450,0.05379310344827586
+2022-12-01,12,December,2022,United Kingdom,Other Group,64,70,1372,1436,0.04874651810584958
+2023-01-01,1,January,2023,United Kingdom,Other Group,80,86,1366,1446,0.059474412171507604
+2023-02-01,2,February,2023,United Kingdom,Other Group,52,64,1360,1412,0.0453257790368272
+2023-03-01,3,March,2023,United Kingdom,Other Group,62,73,1348,1410,0.05177304964539007
+2023-04-01,4,April,2023,United Kingdom,Other Group,75,83,1337,1412,0.058781869688385266
+2023-05-01,5,May,2023,United Kingdom,Other Group,98,74,1329,1427,0.05185704274702172
+2023-06-01,6,June,2023,United Kingdom,Other Group,89,84,1353,1442,0.05825242718446602
+2023-07-01,7,July,2023,United Kingdom,Other Group,119,83,1358,1477,0.056194989844278946
+2023-08-01,8,August,2023,United Kingdom,Other Group,82,83,1394,1476,0.05623306233062331
+2023-09-01,9,September,2023,United Kingdom,Other Group,104,70,1393,1497,0.04676018704074816
+2023-10-01,10,October,2023,United Kingdom,Other Group,87,119,1427,1514,0.0785997357992074
+2023-11-01,11,November,2023,United Kingdom,Other Group,96,100,1395,1491,0.0670690811535882
+2023-12-01,12,December,2023,United Kingdom,Other Group,83,84,1391,1474,0.05698778833107191
+2024-01-01,1,January,2024,United Kingdom,Other Group,94,123,1390,1484,0.08288409703504043
+2024-02-01,2,February,2024,United Kingdom,Other Group,63,90,1361,1424,0.06320224719101124
+2024-03-01,3,March,2024,United Kingdom,Other Group,113,98,1334,1447,0.06772633033863165
+2024-04-01,4,April,2024,United Kingdom,Other Group,166,123,1349,1515,0.08118811881188119
+2024-05-01,5,May,2024,United Kingdom,Other Group,188,134,1392,1580,0.08481012658227848
+2024-06-01,6,June,2024,United Kingdom,Other Group,170,155,1446,1616,0.09591584158415842
+2024-07-01,7,July,2024,United Kingdom,Other Group,159,883,1461,1620,0.5450617283950617
+2024-08-01,8,August,2024,United Kingdom,Other Group,18,755,737,755,1.0
+2024-09-01,9,September,2024,United Kingdom,Other Group,0,0,0,0,-nan
+2024-10-01,10,October,2024,United Kingdom,Other Group,0,0,0,0,-nan
+2024-11-01,11,November,2024,United Kingdom,Other Group,0,0,0,0,-nan
+2019-01-01,1,January,2019,United Kingdom,TRT Group,0,0,,0,-nan
+2019-02-01,2,February,2019,United Kingdom,TRT Group,0,0,0,0,-nan
+2019-03-01,3,March,2019,United Kingdom,TRT Group,0,0,0,0,-nan
+2019-04-01,4,April,2019,United Kingdom,TRT Group,0,0,0,0,-nan
+2019-05-01,5,May,2019,United Kingdom,TRT Group,0,0,0,0,-nan
+2019-06-01,6,June,2019,United Kingdom,TRT Group,0,0,0,0,-nan
+2019-07-01,7,July,2019,United Kingdom,TRT Group,0,0,0,0,-nan
+2019-08-01,8,August,2019,United Kingdom,TRT Group,0,0,0,0,-nan
+2019-09-01,9,September,2019,United Kingdom,TRT Group,0,0,0,0,-nan
+2019-10-01,10,October,2019,United Kingdom,TRT Group,0,0,0,0,-nan
+2019-11-01,11,November,2019,United Kingdom,TRT Group,0,0,0,0,-nan
+2019-12-01,12,December,2019,United Kingdom,TRT Group,0,0,0,0,-nan
+2020-01-01,1,January,2020,United Kingdom,TRT Group,0,0,0,0,-nan
+2020-02-01,2,February,2020,United Kingdom,TRT Group,0,0,0,0,-nan
+2020-03-01,3,March,2020,United Kingdom,TRT Group,0,0,0,0,-nan
+2020-04-01,4,April,2020,United Kingdom,TRT Group,0,0,0,0,-nan
+2020-05-01,5,May,2020,United Kingdom,TRT Group,0,0,0,0,-nan
+2020-06-01,6,June,2020,United Kingdom,TRT Group,0,0,0,0,-nan
+2020-07-01,7,July,2020,United Kingdom,TRT Group,0,0,0,0,-nan
+2020-08-01,8,August,2020,United Kingdom,TRT Group,0,0,0,0,-nan
+2020-09-01,9,September,2020,United Kingdom,TRT Group,0,0,0,0,-nan
+2020-10-01,10,October,2020,United Kingdom,TRT Group,0,0,0,0,-nan
+2020-11-01,11,November,2020,United Kingdom,TRT Group,0,0,0,0,-nan
+2020-12-01,12,December,2020,United Kingdom,TRT Group,0,0,0,0,-nan
+2021-01-01,1,January,2021,United Kingdom,TRT Group,0,0,0,0,-nan
+2021-02-01,2,February,2021,United Kingdom,TRT Group,0,0,0,0,-nan
+2021-03-01,3,March,2021,United Kingdom,TRT Group,0,0,0,0,-nan
+2021-04-01,4,April,2021,United Kingdom,TRT Group,0,0,0,0,-nan
+2021-05-01,5,May,2021,United Kingdom,TRT Group,0,0,0,0,-nan
+2021-06-01,6,June,2021,United Kingdom,TRT Group,0,0,0,0,-nan
+2021-07-01,7,July,2021,United Kingdom,TRT Group,0,0,0,0,-nan
+2021-08-01,8,August,2021,United Kingdom,TRT Group,0,0,0,0,-nan
+2021-09-01,9,September,2021,United Kingdom,TRT Group,0,0,0,0,-nan
+2021-10-01,10,October,2021,United Kingdom,TRT Group,0,0,0,0,-nan
+2021-11-01,11,November,2021,United Kingdom,TRT Group,0,0,0,0,-nan
+2021-12-01,12,December,2021,United Kingdom,TRT Group,0,0,0,0,-nan
+2022-01-01,1,January,2022,United Kingdom,TRT Group,0,0,0,0,-nan
+2022-02-01,2,February,2022,United Kingdom,TRT Group,0,0,0,0,-nan
+2022-03-01,3,March,2022,United Kingdom,TRT Group,0,0,0,0,-nan
+2022-04-01,4,April,2022,United Kingdom,TRT Group,0,0,0,0,-nan
+2022-05-01,5,May,2022,United Kingdom,TRT Group,0,0,0,0,-nan
+2022-06-01,6,June,2022,United Kingdom,TRT Group,0,0,0,0,-nan
+2022-07-01,7,July,2022,United Kingdom,TRT Group,0,0,0,0,-nan
+2022-08-01,8,August,2022,United Kingdom,TRT Group,0,0,0,0,-nan
+2022-09-01,9,September,2022,United Kingdom,TRT Group,0,0,0,0,-nan
+2022-10-01,10,October,2022,United Kingdom,TRT Group,0,0,0,0,-nan
+2022-11-01,11,November,2022,United Kingdom,TRT Group,0,0,0,0,-nan
+2022-12-01,12,December,2022,United Kingdom,TRT Group,0,0,0,0,-nan
+2023-01-01,1,January,2023,United Kingdom,TRT Group,0,0,0,0,-nan
+2023-02-01,2,February,2023,United Kingdom,TRT Group,0,0,0,0,-nan
+2023-03-01,3,March,2023,United Kingdom,TRT Group,2,0,0,2,0.0
+2023-04-01,4,April,2023,United Kingdom,TRT Group,3,0,2,5,0.0
+2023-05-01,5,May,2023,United Kingdom,TRT Group,7,0,5,12,0.0
+2023-06-01,6,June,2023,United Kingdom,TRT Group,2,3,12,14,0.21428571428571427
+2023-07-01,7,July,2023,United Kingdom,TRT Group,4,1,11,15,0.06666666666666667
+2023-08-01,8,August,2023,United Kingdom,TRT Group,9,2,14,23,0.08695652173913043
+2023-09-01,9,September,2023,United Kingdom,TRT Group,8,3,21,29,0.10344827586206896
+2023-10-01,10,October,2023,United Kingdom,TRT Group,4,3,26,30,0.1
+2023-11-01,11,November,2023,United Kingdom,TRT Group,6,1,27,33,0.030303030303030304
+2023-12-01,12,December,2023,United Kingdom,TRT Group,6,1,32,38,0.02631578947368421
+2024-01-01,1,January,2024,United Kingdom,TRT Group,27,3,37,64,0.046875
+2024-02-01,2,February,2024,United Kingdom,TRT Group,47,7,61,108,0.06481481481481481
+2024-03-01,3,March,2024,United Kingdom,TRT Group,102,7,101,203,0.034482758620689655
+2024-04-01,4,April,2024,United Kingdom,TRT Group,158,14,196,354,0.03954802259887006
+2024-05-01,5,May,2024,United Kingdom,TRT Group,265,35,340,605,0.05785123966942149
+2024-06-01,6,June,2024,United Kingdom,TRT Group,288,56,570,858,0.06526806526806526
+2024-07-01,7,July,2024,United Kingdom,TRT Group,283,244,802,1085,0.2248847926267281
+2024-08-01,8,August,2024,United Kingdom,TRT Group,32,873,841,873,1.0
+2024-09-01,9,September,2024,United Kingdom,TRT Group,0,0,0,0,-nan
+2024-10-01,10,October,2024,United Kingdom,TRT Group,0,0,0,0,-nan
+2024-11-01,11,November,2024,United Kingdom,TRT Group,0,0,0,0,-nan
+2019-01-01,1,January,2019,United Kingdom,ED Group,123,0,,123,0.0
+2019-02-01,2,February,2019,United Kingdom,ED Group,564,84,123,687,0.1222707423580786
+2019-03-01,3,March,2019,United Kingdom,ED Group,1809,339,603,2412,0.14054726368159204
+2019-04-01,4,April,2019,United Kingdom,ED Group,2173,606,2073,4246,0.14272256241168157
+2019-05-01,5,May,2019,United Kingdom,ED Group,2420,889,3640,6060,0.1466996699669967
+2019-06-01,6,June,2019,United Kingdom,ED Group,2680,1104,5171,7851,0.14061902942300344
+2019-07-01,7,July,2019,United Kingdom,ED Group,1534,1179,6747,8281,0.14237410940707643
+2019-08-01,8,August,2019,United Kingdom,ED Group,971,926,7102,8073,0.11470333209463644
+2019-09-01,9,September,2019,United Kingdom,ED Group,948,894,7147,8095,0.11043854231006794
+2019-10-01,10,October,2019,United Kingdom,ED Group,863,825,7201,8064,0.10230654761904762
+2019-11-01,11,November,2019,United Kingdom,ED Group,375,528,7239,7614,0.06934594168636722
+2019-12-01,12,December,2019,United Kingdom,ED Group,817,436,7086,7903,0.0551689231937239
+2020-01-01,1,January,2020,United Kingdom,ED Group,943,471,7467,8410,0.05600475624256837
+2020-02-01,2,February,2020,United Kingdom,ED Group,586,472,7939,8525,0.05536656891495601
+2020-03-01,3,March,2020,United Kingdom,ED Group,478,463,8053,8531,0.054272652678466766
+2020-04-01,4,April,2020,United Kingdom,ED Group,530,354,8068,8598,0.041172365666434056
+2020-05-01,5,May,2020,United Kingdom,ED Group,795,358,8244,9039,0.039606151122911826
+2020-06-01,6,June,2020,United Kingdom,ED Group,632,383,8681,9313,0.04112530870825727
+2020-07-01,7,July,2020,United Kingdom,ED Group,855,537,8930,9785,0.05487991824220746
+2020-08-01,8,August,2020,United Kingdom,ED Group,1080,559,9248,10328,0.054124709527498066
+2020-09-01,9,September,2020,United Kingdom,ED Group,1240,631,9769,11009,0.05731674084839677
+2020-10-01,10,October,2020,United Kingdom,ED Group,1132,717,10378,11510,0.062293657688966116
+2020-11-01,11,November,2020,United Kingdom,ED Group,1049,732,10793,11842,0.06181388279006925
+2020-12-01,12,December,2020,United Kingdom,ED Group,1281,813,11110,12391,0.06561213784198208
+2021-01-01,1,January,2021,United Kingdom,ED Group,1490,930,11578,13068,0.0711662075298439
+2021-02-01,2,February,2021,United Kingdom,ED Group,1457,880,12138,13595,0.06472968002942259
+2021-03-01,3,March,2021,United Kingdom,ED Group,1467,1159,12715,14182,0.08172331123959949
+2021-04-01,4,April,2021,United Kingdom,ED Group,1611,954,13023,14634,0.06519065190651907
+2021-05-01,5,May,2021,United Kingdom,ED Group,1812,997,13680,15492,0.06435579654014975
+2021-06-01,6,June,2021,United Kingdom,ED Group,2160,1175,14495,16655,0.07054938456919845
+2021-07-01,7,July,2021,United Kingdom,ED Group,1881,1247,15480,17361,0.07182765969702207
+2021-08-01,8,August,2021,United Kingdom,ED Group,2027,1346,16114,18141,0.07419657130257427
+2021-09-01,9,September,2021,United Kingdom,ED Group,1656,1438,16795,18451,0.0779361552219392
+2021-10-01,10,October,2021,United Kingdom,ED Group,1813,1401,17013,18826,0.07441835759056624
+2021-11-01,11,November,2021,United Kingdom,ED Group,1514,1364,17425,18939,0.07202069803051904
+2021-12-01,12,December,2021,United Kingdom,ED Group,1643,1409,17575,19218,0.07331668227703195
+2022-01-01,1,January,2022,United Kingdom,ED Group,1613,1374,17809,19422,0.07074451652764906
+2022-02-01,2,February,2022,United Kingdom,ED Group,1100,1179,18048,19148,0.061573010236055985
+2022-03-01,3,March,2022,United Kingdom,ED Group,1190,1359,17969,19159,0.07093272091445274
+2022-04-01,4,April,2022,United Kingdom,ED Group,884,1063,17800,18684,0.05689359880111325
+2022-05-01,5,May,2022,United Kingdom,ED Group,985,1093,17621,18606,0.058744491024400734
+2022-06-01,6,June,2022,United Kingdom,ED Group,769,977,17513,18282,0.0534405426102177
+2022-07-01,7,July,2022,United Kingdom,ED Group,226,995,17305,17531,0.05675660258969825
+2022-08-01,8,August,2022,United Kingdom,ED Group,137,840,16536,16673,0.0503808552749955
+2022-09-01,9,September,2022,United Kingdom,ED Group,148,694,15833,15981,0.043426569050747765
+2022-10-01,10,October,2022,United Kingdom,ED Group,136,604,15287,15423,0.03916229008623484
+2022-11-01,11,November,2022,United Kingdom,ED Group,145,522,14819,14964,0.03488372093023256
+2022-12-01,12,December,2022,United Kingdom,ED Group,115,601,14442,14557,0.04128597925396716
+2023-01-01,1,January,2023,United Kingdom,ED Group,133,592,13956,14089,0.04201859606785435
+2023-02-01,2,February,2023,United Kingdom,ED Group,117,485,13497,13614,0.03562509181724695
+2023-03-01,3,March,2023,United Kingdom,ED Group,134,582,13129,13263,0.04388147477946166
+2023-04-01,4,April,2023,United Kingdom,ED Group,116,437,12681,12797,0.03414862858482457
+2023-05-01,5,May,2023,United Kingdom,ED Group,125,496,12360,12485,0.039727673207849416
+2023-06-01,6,June,2023,United Kingdom,ED Group,115,511,11989,12104,0.042217448777263716
+2023-07-01,7,July,2023,United Kingdom,ED Group,107,512,11593,11700,0.04376068376068376
+2023-08-01,8,August,2023,United Kingdom,ED Group,134,556,11188,11322,0.04910793146087264
+2023-09-01,9,September,2023,United Kingdom,ED Group,115,529,10766,10881,0.048616855068467975
+2023-10-01,10,October,2023,United Kingdom,ED Group,119,504,10352,10471,0.04813293859230255
+2023-11-01,11,November,2023,United Kingdom,ED Group,104,560,9967,10071,0.055605203058286166
+2023-12-01,12,December,2023,United Kingdom,ED Group,81,503,9511,9592,0.0524395329441201
+2024-01-01,1,January,2024,United Kingdom,ED Group,96,623,9089,9185,0.0678279804028307
+2024-02-01,2,February,2024,United Kingdom,ED Group,71,548,8562,8633,0.06347735433800533
+2024-03-01,3,March,2024,United Kingdom,ED Group,86,637,8085,8171,0.0779586341941011
+2024-04-01,4,April,2024,United Kingdom,ED Group,73,592,7534,7607,0.07782305771000395
+2024-05-01,5,May,2024,United Kingdom,ED Group,78,601,7015,7093,0.08473142534893557
+2024-06-01,6,June,2024,United Kingdom,ED Group,74,645,6492,6566,0.09823332318001828
+2024-07-01,7,July,2024,United Kingdom,ED Group,73,2787,5921,5994,0.464964964964965
+2024-08-01,8,August,2024,United Kingdom,ED Group,6,3213,3207,3213,1.0
+2024-09-01,9,September,2024,United Kingdom,ED Group,0,0,0,0,-nan
+2024-10-01,10,October,2024,United Kingdom,ED Group,0,0,0,0,-nan
+2024-11-01,11,November,2024,United Kingdom,ED Group,0,0,0,0,-nan
+2019-01-01,1,January,2019,United Kingdom,Mental Health Group,0,0,,0,-nan
+2019-02-01,2,February,2019,United Kingdom,Mental Health Group,0,0,0,0,-nan
+2019-03-01,3,March,2019,United Kingdom,Mental Health Group,0,0,0,0,-nan
+2019-04-01,4,April,2019,United Kingdom,Mental Health Group,0,0,0,0,-nan
+2019-05-01,5,May,2019,United Kingdom,Mental Health Group,0,0,0,0,-nan
+2019-06-01,6,June,2019,United Kingdom,Mental Health Group,0,0,0,0,-nan
+2019-07-01,7,July,2019,United Kingdom,Mental Health Group,0,0,0,0,-nan
+2019-08-01,8,August,2019,United Kingdom,Mental Health Group,0,0,0,0,-nan
+2019-09-01,9,September,2019,United Kingdom,Mental Health Group,0,0,0,0,-nan
+2019-10-01,10,October,2019,United Kingdom,Mental Health Group,0,0,0,0,-nan
+2019-11-01,11,November,2019,United Kingdom,Mental Health Group,0,0,0,0,-nan
+2019-12-01,12,December,2019,United Kingdom,Mental Health Group,0,0,0,0,-nan
+2020-01-01,1,January,2020,United Kingdom,Mental Health Group,0,0,0,0,-nan
+2020-02-01,2,February,2020,United Kingdom,Mental Health Group,0,0,0,0,-nan
+2020-03-01,3,March,2020,United Kingdom,Mental Health Group,0,0,0,0,-nan
+2020-04-01,4,April,2020,United Kingdom,Mental Health Group,0,0,0,0,-nan
+2020-05-01,5,May,2020,United Kingdom,Mental Health Group,0,0,0,0,-nan
+2020-06-01,6,June,2020,United Kingdom,Mental Health Group,0,0,0,0,-nan
+2020-07-01,7,July,2020,United Kingdom,Mental Health Group,0,0,0,0,-nan
+2020-08-01,8,August,2020,United Kingdom,Mental Health Group,0,0,0,0,-nan
+2020-09-01,9,September,2020,United Kingdom,Mental Health Group,0,0,0,0,-nan
+2020-10-01,10,October,2020,United Kingdom,Mental Health Group,0,0,0,0,-nan
+2020-11-01,11,November,2020,United Kingdom,Mental Health Group,0,0,0,0,-nan
+2020-12-01,12,December,2020,United Kingdom,Mental Health Group,0,0,0,0,-nan
+2021-01-01,1,January,2021,United Kingdom,Mental Health Group,0,0,0,0,-nan
+2021-02-01,2,February,2021,United Kingdom,Mental Health Group,0,0,0,0,-nan
+2021-03-01,3,March,2021,United Kingdom,Mental Health Group,0,0,0,0,-nan
+2021-04-01,4,April,2021,United Kingdom,Mental Health Group,0,0,0,0,-nan
+2021-05-01,5,May,2021,United Kingdom,Mental Health Group,0,0,0,0,-nan
+2021-06-01,6,June,2021,United Kingdom,Mental Health Group,0,0,0,0,-nan
+2021-07-01,7,July,2021,United Kingdom,Mental Health Group,0,0,0,0,-nan
+2021-08-01,8,August,2021,United Kingdom,Mental Health Group,0,0,0,0,-nan
+2021-09-01,9,September,2021,United Kingdom,Mental Health Group,0,0,0,0,-nan
+2021-10-01,10,October,2021,United Kingdom,Mental Health Group,0,0,0,0,-nan
+2021-11-01,11,November,2021,United Kingdom,Mental Health Group,0,0,0,0,-nan
+2021-12-01,12,December,2021,United Kingdom,Mental Health Group,0,0,0,0,-nan
+2022-01-01,1,January,2022,United Kingdom,Mental Health Group,0,0,0,0,-nan
+2022-02-01,2,February,2022,United Kingdom,Mental Health Group,0,0,0,0,-nan
+2022-03-01,3,March,2022,United Kingdom,Mental Health Group,0,0,0,0,-nan
+2022-04-01,4,April,2022,United Kingdom,Mental Health Group,0,0,0,0,-nan
+2022-05-01,5,May,2022,United Kingdom,Mental Health Group,0,0,0,0,-nan
+2022-06-01,6,June,2022,United Kingdom,Mental Health Group,0,0,0,0,-nan
+2022-07-01,7,July,2022,United Kingdom,Mental Health Group,1,0,0,1,0.0
+2022-08-01,8,August,2022,United Kingdom,Mental Health Group,0,0,1,1,0.0
+2022-09-01,9,September,2022,United Kingdom,Mental Health Group,0,0,1,1,0.0
+2022-10-01,10,October,2022,United Kingdom,Mental Health Group,0,1,1,1,1.0
+2022-11-01,11,November,2022,United Kingdom,Mental Health Group,0,0,0,0,-nan
+2022-12-01,12,December,2022,United Kingdom,Mental Health Group,0,0,0,0,-nan
+2023-01-01,1,January,2023,United Kingdom,Mental Health Group,0,0,0,0,-nan
+2023-02-01,2,February,2023,United Kingdom,Mental Health Group,0,0,0,0,-nan
+2023-03-01,3,March,2023,United Kingdom,Mental Health Group,0,0,0,0,-nan
+2023-04-01,4,April,2023,United Kingdom,Mental Health Group,0,0,0,0,-nan
+2023-05-01,5,May,2023,United Kingdom,Mental Health Group,0,0,0,0,-nan
+2023-06-01,6,June,2023,United Kingdom,Mental Health Group,0,0,0,0,-nan
+2023-07-01,7,July,2023,United Kingdom,Mental Health Group,0,0,0,0,-nan
+2023-08-01,8,August,2023,United Kingdom,Mental Health Group,0,0,0,0,-nan
+2023-09-01,9,September,2023,United Kingdom,Mental Health Group,0,0,0,0,-nan
+2023-10-01,10,October,2023,United Kingdom,Mental Health Group,0,0,0,0,-nan
+2023-11-01,11,November,2023,United Kingdom,Mental Health Group,0,0,0,0,-nan
+2023-12-01,12,December,2023,United Kingdom,Mental Health Group,0,0,0,0,-nan
+2024-01-01,1,January,2024,United Kingdom,Mental Health Group,0,0,0,0,-nan
+2024-02-01,2,February,2024,United Kingdom,Mental Health Group,0,0,0,0,-nan
+2024-03-01,3,March,2024,United Kingdom,Mental Health Group,0,0,0,0,-nan
+2024-04-01,4,April,2024,United Kingdom,Mental Health Group,0,0,0,0,-nan
+2024-05-01,5,May,2024,United Kingdom,Mental Health Group,0,0,0,0,-nan
+2024-06-01,6,June,2024,United Kingdom,Mental Health Group,0,0,0,0,-nan
+2024-07-01,7,July,2024,United Kingdom,Mental Health Group,0,0,0,0,-nan
+2024-08-01,8,August,2024,United Kingdom,Mental Health Group,0,0,0,0,-nan
+2024-09-01,9,September,2024,United Kingdom,Mental Health Group,0,0,0,0,-nan
+2024-10-01,10,October,2024,United Kingdom,Mental Health Group,0,0,0,0,-nan
+2024-11-01,11,November,2024,United Kingdom,Mental Health Group,0,0,0,0,-nan
+2019-01-01,1,January,2019,Brazil,Weight Loss Group,0,0,,0,-nan
+2019-02-01,2,February,2019,Brazil,Weight Loss Group,0,0,0,0,-nan
+2019-03-01,3,March,2019,Brazil,Weight Loss Group,0,0,0,0,-nan
+2019-04-01,4,April,2019,Brazil,Weight Loss Group,0,0,0,0,-nan
+2019-05-01,5,May,2019,Brazil,Weight Loss Group,0,0,0,0,-nan
+2019-06-01,6,June,2019,Brazil,Weight Loss Group,0,0,0,0,-nan
+2019-07-01,7,July,2019,Brazil,Weight Loss Group,0,0,0,0,-nan
+2019-08-01,8,August,2019,Brazil,Weight Loss Group,0,0,0,0,-nan
+2019-09-01,9,September,2019,Brazil,Weight Loss Group,0,0,0,0,-nan
+2019-10-01,10,October,2019,Brazil,Weight Loss Group,0,0,0,0,-nan
+2019-11-01,11,November,2019,Brazil,Weight Loss Group,0,0,0,0,-nan
+2019-12-01,12,December,2019,Brazil,Weight Loss Group,0,0,0,0,-nan
+2020-01-01,1,January,2020,Brazil,Weight Loss Group,0,0,0,0,-nan
+2020-02-01,2,February,2020,Brazil,Weight Loss Group,0,0,0,0,-nan
+2020-03-01,3,March,2020,Brazil,Weight Loss Group,0,0,0,0,-nan
+2020-04-01,4,April,2020,Brazil,Weight Loss Group,0,0,0,0,-nan
+2020-05-01,5,May,2020,Brazil,Weight Loss Group,0,0,0,0,-nan
+2020-06-01,6,June,2020,Brazil,Weight Loss Group,0,0,0,0,-nan
+2020-07-01,7,July,2020,Brazil,Weight Loss Group,0,0,0,0,-nan
+2020-08-01,8,August,2020,Brazil,Weight Loss Group,0,0,0,0,-nan
+2020-09-01,9,September,2020,Brazil,Weight Loss Group,0,0,0,0,-nan
+2020-10-01,10,October,2020,Brazil,Weight Loss Group,0,0,0,0,-nan
+2020-11-01,11,November,2020,Brazil,Weight Loss Group,0,0,0,0,-nan
+2020-12-01,12,December,2020,Brazil,Weight Loss Group,0,0,0,0,-nan
+2021-01-01,1,January,2021,Brazil,Weight Loss Group,0,0,0,0,-nan
+2021-02-01,2,February,2021,Brazil,Weight Loss Group,0,0,0,0,-nan
+2021-03-01,3,March,2021,Brazil,Weight Loss Group,0,0,0,0,-nan
+2021-04-01,4,April,2021,Brazil,Weight Loss Group,0,0,0,0,-nan
+2021-05-01,5,May,2021,Brazil,Weight Loss Group,0,0,0,0,-nan
+2021-06-01,6,June,2021,Brazil,Weight Loss Group,0,0,0,0,-nan
+2021-07-01,7,July,2021,Brazil,Weight Loss Group,0,0,0,0,-nan
+2021-08-01,8,August,2021,Brazil,Weight Loss Group,0,0,0,0,-nan
+2021-09-01,9,September,2021,Brazil,Weight Loss Group,0,0,0,0,-nan
+2021-10-01,10,October,2021,Brazil,Weight Loss Group,0,0,0,0,-nan
+2021-11-01,11,November,2021,Brazil,Weight Loss Group,0,0,0,0,-nan
+2021-12-01,12,December,2021,Brazil,Weight Loss Group,0,0,0,0,-nan
+2022-01-01,1,January,2022,Brazil,Weight Loss Group,0,0,0,0,-nan
+2022-02-01,2,February,2022,Brazil,Weight Loss Group,0,0,0,0,-nan
+2022-03-01,3,March,2022,Brazil,Weight Loss Group,0,0,0,0,-nan
+2022-04-01,4,April,2022,Brazil,Weight Loss Group,0,0,0,0,-nan
+2022-05-01,5,May,2022,Brazil,Weight Loss Group,0,0,0,0,-nan
+2022-06-01,6,June,2022,Brazil,Weight Loss Group,0,0,0,0,-nan
+2022-07-01,7,July,2022,Brazil,Weight Loss Group,0,0,0,0,-nan
+2022-08-01,8,August,2022,Brazil,Weight Loss Group,0,0,0,0,-nan
+2022-09-01,9,September,2022,Brazil,Weight Loss Group,0,0,0,0,-nan
+2022-10-01,10,October,2022,Brazil,Weight Loss Group,0,0,0,0,-nan
+2022-11-01,11,November,2022,Brazil,Weight Loss Group,0,0,0,0,-nan
+2022-12-01,12,December,2022,Brazil,Weight Loss Group,0,0,0,0,-nan
+2023-01-01,1,January,2023,Brazil,Weight Loss Group,0,0,0,0,-nan
+2023-02-01,2,February,2023,Brazil,Weight Loss Group,0,0,0,0,-nan
+2023-03-01,3,March,2023,Brazil,Weight Loss Group,0,0,0,0,-nan
+2023-04-01,4,April,2023,Brazil,Weight Loss Group,0,0,0,0,-nan
+2023-05-01,5,May,2023,Brazil,Weight Loss Group,19,3,0,19,0.15789473684210525
+2023-06-01,6,June,2023,Brazil,Weight Loss Group,21,6,16,37,0.16216216216216217
+2023-07-01,7,July,2023,Brazil,Weight Loss Group,31,17,31,62,0.27419354838709675
+2023-08-01,8,August,2023,Brazil,Weight Loss Group,29,19,45,74,0.25675675675675674
+2023-09-01,9,September,2023,Brazil,Weight Loss Group,40,21,55,95,0.22105263157894736
+2023-10-01,10,October,2023,Brazil,Weight Loss Group,26,38,74,100,0.38
+2023-11-01,11,November,2023,Brazil,Weight Loss Group,9,19,62,71,0.2676056338028169
+2023-12-01,12,December,2023,Brazil,Weight Loss Group,10,11,52,62,0.1774193548387097
+2024-01-01,1,January,2024,Brazil,Weight Loss Group,10,15,51,61,0.2459016393442623
+2024-02-01,2,February,2024,Brazil,Weight Loss Group,11,11,46,57,0.19298245614035087
+2024-03-01,3,March,2024,Brazil,Weight Loss Group,26,13,46,72,0.18055555555555555
+2024-04-01,4,April,2024,Brazil,Weight Loss Group,106,18,59,165,0.10909090909090909
+2024-05-01,5,May,2024,Brazil,Weight Loss Group,113,51,147,260,0.19615384615384615
+2024-06-01,6,June,2024,Brazil,Weight Loss Group,47,57,209,256,0.22265625
+2024-07-01,7,July,2024,Brazil,Weight Loss Group,144,72,199,343,0.2099125364431487
+2024-08-01,8,August,2024,Brazil,Weight Loss Group,22,293,271,293,1.0
+2024-09-01,9,September,2024,Brazil,Weight Loss Group,0,0,0,0,-nan
+2024-10-01,10,October,2024,Brazil,Weight Loss Group,0,0,0,0,-nan
+2024-11-01,11,November,2024,Brazil,Weight Loss Group,0,0,0,0,-nan
