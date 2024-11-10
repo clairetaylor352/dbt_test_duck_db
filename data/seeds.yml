@@ -11,10 +11,22 @@ seeds:
     data_tests:
       - dbt_expectations.expect_compound_columns_to_be_unique:
           column_list: [ "subscription_id", "from_date", "to_date"]
+      - dbt_expectations.expect_column_pair_values_A_to_be_greater_than_B:
+          column_A: to_date
+          column_B: from_date
+          or_equal: true
     columns:
       - name: customer_id
         data_tests:
           - not_null
+      - name: customer_id
+        tests:
+          - relationships:
+              to: ref('customers')
+              field: customer_id
+          - relationships:
+              to: ref('acq_orders')
+              field: customer_id
       - name: subscription_id
         data_tests:
           - not_null

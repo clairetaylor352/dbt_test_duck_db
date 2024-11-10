@@ -2,11 +2,11 @@ WITH activity_with_customer_info AS (
     SELECT
         activity.*,
         customers.customer_country,
-        acq_orders.taxonomy_business_category_group
+        coalesce(acq_orders.taxonomy_business_category_group, 'None') AS taxonomy_business_category_group
     FROM {{ ref('activity') }} AS activity
     INNER JOIN {{ ref('customers') }} AS customers
         ON activity.customer_id = customers.customer_id
-    INNER JOIN {{ ref('acq_orders') }} AS acq_orders
+    LEFT JOIN {{ ref('acq_orders') }} AS acq_orders
         ON activity.customer_id = acq_orders.customer_id
 
 ),
