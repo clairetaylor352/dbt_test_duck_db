@@ -21,7 +21,7 @@ Columns
 
 Note this table is also unique by customer_id, so each customer only currently has one of these categories. We will model assuming this is the case, though noting that it seems possible that in the future a customer could have more than one.
 
-Also noted is that not all customers in the customers table have an entry in this table. Also noted that most of these customers are recent sign ups with activity only in the most recent month (August 2024). 
+Also noted is that not all customers in the customers table have an entry in this table. Most of these customers are recent sign ups with activity only in the most recent month (August 2024). 
 
 ### activity
 
@@ -29,12 +29,11 @@ Columns
 
 `customer_id` - links to customer_id from customers, not null
 
-`subscription_id` - id for subscription. Note that one customer can have multiple subscriptions, and that a subscription can have multiple activity rows. However a subscription cannot belong to more than customer
+`subscription_id` - id for subscription. Note that one customer can have multiple subscriptions, and that a subscription can have multiple activity rows. However a subscription cannot belong to more than one customer
 
 `from_date` - start date of activity - date not null
 
 `to_date` - end date of activity - date not null
-
 
 I note this table always has a `to_date` meaning that if we are using this table to figure out if a customer or subscription is active, they are always going to eventually be inactive. This means that the resulting table below always drops all the users down to inactive on the final month. 
 
@@ -68,11 +67,11 @@ Columns
 
 `registering_customer_count` - count of distinct customers for this country and category who have their first ever activity in this month
 
-`deregistering_customer_count` - count of distinct customers for this coutnry and category who have their last ever activity in this month
+`deregistering_customer_count` - count of distinct customers for this country and category who have their last ever activity in this month
 
 `active_customer_count` - count of customers who have had their first ever activity in or before this month, and for which their last ever activity is either this month or in future months
 
-`churn_rate` - proportion of customers who deregistered in a month as a proportion of that months active customers. If there are no active customers, this will be `nan`
+`churn_rate` - proportion of customers who deregistered in a month as a proportion of that month's active customers. If there are no active customers, this will be `nan`
 
 This should be a useful aggregation table for users who are looking to use BI tools to explore customer acquisition over time, country and taxonomy group.
 
