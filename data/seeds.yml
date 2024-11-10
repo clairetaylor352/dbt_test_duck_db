@@ -24,9 +24,6 @@ seeds:
           - relationships:
               to: ref('customers')
               field: customer_id
-          - relationships:
-              to: ref('acq_orders')
-              field: customer_id
       - name: subscription_id
         data_tests:
           - not_null
@@ -42,6 +39,9 @@ seeds:
         data_tests:
           - not_null
           - unique
+          - relationships:
+              to: ref('customers')
+              field: customer_id
       - name: taxonomy_business_category_group
         data_tests:
           - not_null
