@@ -3,6 +3,6 @@
   "features": {
   },
   
-  "postStartCommand": "bash ./scripts/linux_startup.sh"
+  "postCreateCommand": "bash ./scripts/linux_setup.sh"
 
 }
