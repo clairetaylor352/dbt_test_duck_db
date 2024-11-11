@@ -141,77 +141,6 @@ first_day_of_month,month_of_year,month_name,year_key,customer_country,taxonomy_b
 2024-09-01,9,September,2024,United Kingdom,Sleep Group,0,0,0,0,-nan
 2024-10-01,10,October,2024,United Kingdom,Sleep Group,0,0,0,0,-nan
 2024-11-01,11,November,2024,United Kingdom,Sleep Group,0,0,0,0,-nan
-2019-01-01,1,January,2019,Brazil,None,0,0,,0,-nan
-2019-02-01,2,February,2019,Brazil,None,0,0,0,0,-nan
-2019-03-01,3,March,2019,Brazil,None,0,0,0,0,-nan
-2019-04-01,4,April,2019,Brazil,None,0,0,0,0,-nan
-2019-05-01,5,May,2019,Brazil,None,0,0,0,0,-nan
-2019-06-01,6,June,2019,Brazil,None,0,0,0,0,-nan
-2019-07-01,7,July,2019,Brazil,None,0,0,0,0,-nan
-2019-08-01,8,August,2019,Brazil,None,0,0,0,0,-nan
-2019-09-01,9,September,2019,Brazil,None,0,0,0,0,-nan
-2019-10-01,10,October,2019,Brazil,None,0,0,0,0,-nan
-2019-11-01,11,November,2019,Brazil,None,0,0,0,0,-nan
-2019-12-01,12,December,2019,Brazil,None,0,0,0,0,-nan
-2020-01-01,1,January,2020,Brazil,None,0,0,0,0,-nan
-2020-02-01,2,February,2020,Brazil,None,0,0,0,0,-nan
-2020-03-01,3,March,2020,Brazil,None,0,0,0,0,-nan
-2020-04-01,4,April,2020,Brazil,None,0,0,0,0,-nan
-2020-05-01,5,May,2020,Brazil,None,0,0,0,0,-nan
-2020-06-01,6,June,2020,Brazil,None,0,0,0,0,-nan
-2020-07-01,7,July,2020,Brazil,None,0,0,0,0,-nan
-2020-08-01,8,August,2020,Brazil,None,0,0,0,0,-nan
-2020-09-01,9,September,2020,Brazil,None,0,0,0,0,-nan
-2020-10-01,10,October,2020,Brazil,None,0,0,0,0,-nan
-2020-11-01,11,November,2020,Brazil,None,0,0,0,0,-nan
-2020-12-01,12,December,2020,Brazil,None,0,0,0,0,-nan
-2021-01-01,1,January,2021,Brazil,None,0,0,0,0,-nan
-2021-02-01,2,February,2021,Brazil,None,0,0,0,0,-nan
-2021-03-01,3,March,2021,Brazil,None,0,0,0,0,-nan
-2021-04-01,4,April,2021,Brazil,None,0,0,0,0,-nan
-2021-05-01,5,May,2021,Brazil,None,0,0,0,0,-nan
-2021-06-01,6,June,2021,Brazil,None,0,0,0,0,-nan
-2021-07-01,7,July,2021,Brazil,None,0,0,0,0,-nan
-2021-08-01,8,August,2021,Brazil,None,0,0,0,0,-nan
-2021-09-01,9,September,2021,Brazil,None,0,0,0,0,-nan
-2021-10-01,10,October,2021,Brazil,None,0,0,0,0,-nan
-2021-11-01,11,November,2021,Brazil,None,0,0,0,0,-nan
-2021-12-01,12,December,2021,Brazil,None,0,0,0,0,-nan
-2022-01-01,1,January,2022,Brazil,None,0,0,0,0,-nan
-2022-02-01,2,February,2022,Brazil,None,0,0,0,0,-nan
-2022-03-01,3,March,2022,Brazil,None,0,0,0,0,-nan
-2022-04-01,4,April,2022,Brazil,None,0,0,0,0,-nan
-2022-05-01,5,May,2022,Brazil,None,0,0,0,0,-nan
-2022-06-01,6,June,2022,Brazil,None,0,0,0,0,-nan
-2022-07-01,7,July,2022,Brazil,None,0,0,0,0,-nan
-2022-08-01,8,August,2022,Brazil,None,0,0,0,0,-nan
-2022-09-01,9,September,2022,Brazil,None,1,0,0,1,0.0
-2022-10-01,10,October,2022,Brazil,None,0,0,1,1,0.0
-2022-11-01,11,November,2022,Brazil,None,0,0,1,1,0.0
-2022-12-01,12,December,2022,Brazil,None,0,0,1,1,0.0
-2023-01-01,1,January,2023,Brazil,None,0,0,1,1,0.0
-2023-02-01,2,February,2023,Brazil,None,0,0,1,1,0.0
-2023-03-01,3,March,2023,Brazil,None,0,0,1,1,0.0
-2023-04-01,4,April,2023,Brazil,None,0,0,1,1,0.0
-2023-05-01,5,May,2023,Brazil,None,0,0,1,1,0.0
-2023-06-01,6,June,2023,Brazil,None,0,0,1,1,0.0
-2023-07-01,7,July,2023,Brazil,None,0,0,1,1,0.0
-2023-08-01,8,August,2023,Brazil,None,0,0,1,1,0.0
-2023-09-01,9,September,2023,Brazil,None,0,0,1,1,0.0
-2023-10-01,10,October,2023,Brazil,None,0,0,1,1,0.0
-2023-11-01,11,November,2023,Brazil,None,0,0,1,1,0.0
-2023-12-01,12,December,2023,Brazil,None,0,0,1,1,0.0
-2024-01-01,1,January,2024,Brazil,None,0,0,1,1,0.0
-2024-02-01,2,February,2024,Brazil,None,0,0,1,1,0.0
-2024-03-01,3,March,2024,Brazil,None,0,0,1,1,0.0
-2024-04-01,4,April,2024,Brazil,None,0,0,1,1,0.0
-2024-05-01,5,May,2024,Brazil,None,0,0,1,1,0.0
-2024-06-01,6,June,2024,Brazil,None,0,0,1,1,0.0
-2024-07-01,7,July,2024,Brazil,None,0,1,1,1,1.0
-2024-08-01,8,August,2024,Brazil,None,1164,1164,0,1164,1.0
-2024-09-01,9,September,2024,Brazil,None,0,0,0,0,-nan
-2024-10-01,10,October,2024,Brazil,None,0,0,0,0,-nan
-2024-11-01,11,November,2024,Brazil,None,0,0,0,0,-nan
 2019-01-01,1,January,2019,Brazil,ED Group,0,0,,0,-nan
 2019-02-01,2,February,2019,Brazil,ED Group,0,0,0,0,-nan
 2019-03-01,3,March,2019,Brazil,ED Group,0,0,0,0,-nan
@@ -283,77 +212,6 @@ first_day_of_month,month_of_year,month_name,year_key,customer_country,taxonomy_b
 2024-09-01,9,September,2024,Brazil,ED Group,0,0,0,0,-nan
 2024-10-01,10,October,2024,Brazil,ED Group,0,0,0,0,-nan
 2024-11-01,11,November,2024,Brazil,ED Group,0,0,0,0,-nan
-2019-01-01,1,January,2019,United Kingdom,Weight Loss Group,0,0,,0,-nan
-2019-02-01,2,February,2019,United Kingdom,Weight Loss Group,0,0,0,0,-nan
-2019-03-01,3,March,2019,United Kingdom,Weight Loss Group,0,0,0,0,-nan
-2019-04-01,4,April,2019,United Kingdom,Weight Loss Group,0,0,0,0,-nan
-2019-05-01,5,May,2019,United Kingdom,Weight Loss Group,0,0,0,0,-nan
-2019-06-01,6,June,2019,United Kingdom,Weight Loss Group,0,0,0,0,-nan
-2019-07-01,7,July,2019,United Kingdom,Weight Loss Group,0,0,0,0,-nan
-2019-08-01,8,August,2019,United Kingdom,Weight Loss Group,0,0,0,0,-nan
-2019-09-01,9,September,2019,United Kingdom,Weight Loss Group,0,0,0,0,-nan
-2019-10-01,10,October,2019,United Kingdom,Weight Loss Group,0,0,0,0,-nan
-2019-11-01,11,November,2019,United Kingdom,Weight Loss Group,0,0,0,0,-nan
-2019-12-01,12,December,2019,United Kingdom,Weight Loss Group,0,0,0,0,-nan
-2020-01-01,1,January,2020,United Kingdom,Weight Loss Group,0,0,0,0,-nan
-2020-02-01,2,February,2020,United Kingdom,Weight Loss Group,0,0,0,0,-nan
-2020-03-01,3,March,2020,United Kingdom,Weight Loss Group,0,0,0,0,-nan
-2020-04-01,4,April,2020,United Kingdom,Weight Loss Group,0,0,0,0,-nan
-2020-05-01,5,May,2020,United Kingdom,Weight Loss Group,0,0,0,0,-nan
-2020-06-01,6,June,2020,United Kingdom,Weight Loss Group,0,0,0,0,-nan
-2020-07-01,7,July,2020,United Kingdom,Weight Loss Group,0,0,0,0,-nan
-2020-08-01,8,August,2020,United Kingdom,Weight Loss Group,0,0,0,0,-nan
-2020-09-01,9,September,2020,United Kingdom,Weight Loss Group,0,0,0,0,-nan
-2020-10-01,10,October,2020,United Kingdom,Weight Loss Group,0,0,0,0,-nan
-2020-11-01,11,November,2020,United Kingdom,Weight Loss Group,0,0,0,0,-nan
-2020-12-01,12,December,2020,United Kingdom,Weight Loss Group,0,0,0,0,-nan
-2021-01-01,1,January,2021,United Kingdom,Weight Loss Group,0,0,0,0,-nan
-2021-02-01,2,February,2021,United Kingdom,Weight Loss Group,0,0,0,0,-nan
-2021-03-01,3,March,2021,United Kingdom,Weight Loss Group,0,0,0,0,-nan
-2021-04-01,4,April,2021,United Kingdom,Weight Loss Group,0,0,0,0,-nan
-2021-05-01,5,May,2021,United Kingdom,Weight Loss Group,0,0,0,0,-nan
-2021-06-01,6,June,2021,United Kingdom,Weight Loss Group,0,0,0,0,-nan
-2021-07-01,7,July,2021,United Kingdom,Weight Loss Group,0,0,0,0,-nan
-2021-08-01,8,August,2021,United Kingdom,Weight Loss Group,0,0,0,0,-nan
-2021-09-01,9,September,2021,United Kingdom,Weight Loss Group,0,0,0,0,-nan
-2021-10-01,10,October,2021,United Kingdom,Weight Loss Group,0,0,0,0,-nan
-2021-11-01,11,November,2021,United Kingdom,Weight Loss Group,0,0,0,0,-nan
-2021-12-01,12,December,2021,United Kingdom,Weight Loss Group,0,0,0,0,-nan
-2022-01-01,1,January,2022,United Kingdom,Weight Loss Group,0,0,0,0,-nan
-2022-02-01,2,February,2022,United Kingdom,Weight Loss Group,0,0,0,0,-nan
-2022-03-01,3,March,2022,United Kingdom,Weight Loss Group,0,0,0,0,-nan
-2022-04-01,4,April,2022,United Kingdom,Weight Loss Group,0,0,0,0,-nan
-2022-05-01,5,May,2022,United Kingdom,Weight Loss Group,3,0,0,3,0.0
-2022-06-01,6,June,2022,United Kingdom,Weight Loss Group,62,3,3,65,0.046153846153846156
-2022-07-01,7,July,2022,United Kingdom,Weight Loss Group,64,31,62,126,0.24603174603174602
-2022-08-01,8,August,2022,United Kingdom,Weight Loss Group,62,28,95,157,0.17834394904458598
-2022-09-01,9,September,2022,United Kingdom,Weight Loss Group,129,39,129,258,0.1511627906976744
-2022-10-01,10,October,2022,United Kingdom,Weight Loss Group,457,107,219,676,0.15828402366863906
-2022-11-01,11,November,2022,United Kingdom,Weight Loss Group,376,178,569,945,0.18835978835978837
-2022-12-01,12,December,2022,United Kingdom,Weight Loss Group,680,181,767,1447,0.12508638562543192
-2023-01-01,1,January,2023,United Kingdom,Weight Loss Group,1365,389,1266,2631,0.14785252755606235
-2023-02-01,2,February,2023,United Kingdom,Weight Loss Group,1558,543,2242,3800,0.14289473684210527
-2023-03-01,3,March,2023,United Kingdom,Weight Loss Group,2135,836,3257,5392,0.15504451038575667
-2023-04-01,4,April,2023,United Kingdom,Weight Loss Group,1143,804,4556,5699,0.14107738199684156
-2023-05-01,5,May,2023,United Kingdom,Weight Loss Group,1384,987,4895,6279,0.15719063545150502
-2023-06-01,6,June,2023,United Kingdom,Weight Loss Group,1382,941,5292,6674,0.1409949056038358
-2023-07-01,7,July,2023,United Kingdom,Weight Loss Group,2380,1280,5733,8113,0.15777147787501541
-2023-08-01,8,August,2023,United Kingdom,Weight Loss Group,588,1012,6833,7421,0.13636976148767013
-2023-09-01,9,September,2023,United Kingdom,Weight Loss Group,1660,862,6409,8069,0.10682860329656711
-2023-10-01,10,October,2023,United Kingdom,Weight Loss Group,1006,1008,7207,8213,0.12273225374406428
-2023-11-01,11,November,2023,United Kingdom,Weight Loss Group,850,950,7205,8055,0.11793916821849783
-2023-12-01,12,December,2023,United Kingdom,Weight Loss Group,843,853,7105,7948,0.10732259687971817
-2024-01-01,1,January,2024,United Kingdom,Weight Loss Group,1901,1025,7095,8996,0.11393952867941307
-2024-02-01,2,February,2024,United Kingdom,Weight Loss Group,2642,1216,7971,10613,0.11457646282860642
-2024-03-01,3,March,2024,United Kingdom,Weight Loss Group,2985,1782,9397,12382,0.14391859150379582
-2024-04-01,4,April,2024,United Kingdom,Weight Loss Group,3542,2058,10600,14142,0.14552397114976665
-2024-05-01,5,May,2024,United Kingdom,Weight Loss Group,3299,2313,12084,15383,0.1503607878827277
-2024-06-01,6,June,2024,United Kingdom,Weight Loss Group,3473,2288,13070,16543,0.13830623224324487
-2024-07-01,7,July,2024,United Kingdom,Weight Loss Group,4394,3911,14255,18649,0.20971633867767708
-2024-08-01,8,August,2024,United Kingdom,Weight Loss Group,683,15421,14738,15421,1.0
-2024-09-01,9,September,2024,United Kingdom,Weight Loss Group,0,0,0,0,-nan
-2024-10-01,10,October,2024,United Kingdom,Weight Loss Group,0,0,0,0,-nan
-2024-11-01,11,November,2024,United Kingdom,Weight Loss Group,0,0,0,0,-nan
 2019-01-01,1,January,2019,United Kingdom,Other Group,0,0,,0,-nan
 2019-02-01,2,February,2019,United Kingdom,Other Group,0,0,0,0,-nan
 2019-03-01,3,March,2019,United Kingdom,Other Group,0,0,0,0,-nan
@@ -425,148 +283,6 @@ first_day_of_month,month_of_year,month_name,year_key,customer_country,taxonomy_b
 2024-09-01,9,September,2024,United Kingdom,Other Group,0,0,0,0,-nan
 2024-10-01,10,October,2024,United Kingdom,Other Group,0,0,0,0,-nan
 2024-11-01,11,November,2024,United Kingdom,Other Group,0,0,0,0,-nan
-2019-01-01,1,January,2019,United Kingdom,None,0,0,,0,-nan
-2019-02-01,2,February,2019,United Kingdom,None,0,0,0,0,-nan
-2019-03-01,3,March,2019,United Kingdom,None,0,0,0,0,-nan
-2019-04-01,4,April,2019,United Kingdom,None,0,0,0,0,-nan
-2019-05-01,5,May,2019,United Kingdom,None,0,0,0,0,-nan
-2019-06-01,6,June,2019,United Kingdom,None,0,0,0,0,-nan
-2019-07-01,7,July,2019,United Kingdom,None,0,0,0,0,-nan
-2019-08-01,8,August,2019,United Kingdom,None,0,0,0,0,-nan
-2019-09-01,9,September,2019,United Kingdom,None,0,0,0,0,-nan
-2019-10-01,10,October,2019,United Kingdom,None,0,0,0,0,-nan
-2019-11-01,11,November,2019,United Kingdom,None,0,0,0,0,-nan
-2019-12-01,12,December,2019,United Kingdom,None,0,0,0,0,-nan
-2020-01-01,1,January,2020,United Kingdom,None,0,0,0,0,-nan
-2020-02-01,2,February,2020,United Kingdom,None,0,0,0,0,-nan
-2020-03-01,3,March,2020,United Kingdom,None,0,0,0,0,-nan
-2020-04-01,4,April,2020,United Kingdom,None,0,0,0,0,-nan
-2020-05-01,5,May,2020,United Kingdom,None,0,0,0,0,-nan
-2020-06-01,6,June,2020,United Kingdom,None,0,0,0,0,-nan
-2020-07-01,7,July,2020,United Kingdom,None,0,0,0,0,-nan
-2020-08-01,8,August,2020,United Kingdom,None,0,0,0,0,-nan
-2020-09-01,9,September,2020,United Kingdom,None,0,0,0,0,-nan
-2020-10-01,10,October,2020,United Kingdom,None,0,0,0,0,-nan
-2020-11-01,11,November,2020,United Kingdom,None,0,0,0,0,-nan
-2020-12-01,12,December,2020,United Kingdom,None,0,0,0,0,-nan
-2021-01-01,1,January,2021,United Kingdom,None,0,0,0,0,-nan
-2021-02-01,2,February,2021,United Kingdom,None,1,1,0,1,1.0
-2021-03-01,3,March,2021,United Kingdom,None,0,0,0,0,-nan
-2021-04-01,4,April,2021,United Kingdom,None,0,0,0,0,-nan
-2021-05-01,5,May,2021,United Kingdom,None,0,0,0,0,-nan
-2021-06-01,6,June,2021,United Kingdom,None,0,0,0,0,-nan
-2021-07-01,7,July,2021,United Kingdom,None,0,0,0,0,-nan
-2021-08-01,8,August,2021,United Kingdom,None,0,0,0,0,-nan
-2021-09-01,9,September,2021,United Kingdom,None,0,0,0,0,-nan
-2021-10-01,10,October,2021,United Kingdom,None,0,0,0,0,-nan
-2021-11-01,11,November,2021,United Kingdom,None,0,0,0,0,-nan
-2021-12-01,12,December,2021,United Kingdom,None,0,0,0,0,-nan
-2022-01-01,1,January,2022,United Kingdom,None,0,0,0,0,-nan
-2022-02-01,2,February,2022,United Kingdom,None,0,0,0,0,-nan
-2022-03-01,3,March,2022,United Kingdom,None,0,0,0,0,-nan
-2022-04-01,4,April,2022,United Kingdom,None,0,0,0,0,-nan
-2022-05-01,5,May,2022,United Kingdom,None,0,0,0,0,-nan
-2022-06-01,6,June,2022,United Kingdom,None,0,0,0,0,-nan
-2022-07-01,7,July,2022,United Kingdom,None,0,0,0,0,-nan
-2022-08-01,8,August,2022,United Kingdom,None,0,0,0,0,-nan
-2022-09-01,9,September,2022,United Kingdom,None,0,0,0,0,-nan
-2022-10-01,10,October,2022,United Kingdom,None,0,0,0,0,-nan
-2022-11-01,11,November,2022,United Kingdom,None,0,0,0,0,-nan
-2022-12-01,12,December,2022,United Kingdom,None,0,0,0,0,-nan
-2023-01-01,1,January,2023,United Kingdom,None,0,0,0,0,-nan
-2023-02-01,2,February,2023,United Kingdom,None,0,0,0,0,-nan
-2023-03-01,3,March,2023,United Kingdom,None,0,0,0,0,-nan
-2023-04-01,4,April,2023,United Kingdom,None,0,0,0,0,-nan
-2023-05-01,5,May,2023,United Kingdom,None,0,0,0,0,-nan
-2023-06-01,6,June,2023,United Kingdom,None,0,0,0,0,-nan
-2023-07-01,7,July,2023,United Kingdom,None,0,0,0,0,-nan
-2023-08-01,8,August,2023,United Kingdom,None,0,0,0,0,-nan
-2023-09-01,9,September,2023,United Kingdom,None,0,0,0,0,-nan
-2023-10-01,10,October,2023,United Kingdom,None,0,0,0,0,-nan
-2023-11-01,11,November,2023,United Kingdom,None,0,0,0,0,-nan
-2023-12-01,12,December,2023,United Kingdom,None,0,0,0,0,-nan
-2024-01-01,1,January,2024,United Kingdom,None,0,0,0,0,-nan
-2024-02-01,2,February,2024,United Kingdom,None,0,0,0,0,-nan
-2024-03-01,3,March,2024,United Kingdom,None,0,0,0,0,-nan
-2024-04-01,4,April,2024,United Kingdom,None,0,0,0,0,-nan
-2024-05-01,5,May,2024,United Kingdom,None,0,0,0,0,-nan
-2024-06-01,6,June,2024,United Kingdom,None,0,0,0,0,-nan
-2024-07-01,7,July,2024,United Kingdom,None,0,0,0,0,-nan
-2024-08-01,8,August,2024,United Kingdom,None,3730,3730,0,3730,1.0
-2024-09-01,9,September,2024,United Kingdom,None,0,0,0,0,-nan
-2024-10-01,10,October,2024,United Kingdom,None,0,0,0,0,-nan
-2024-11-01,11,November,2024,United Kingdom,None,0,0,0,0,-nan
-2019-01-01,1,January,2019,United Kingdom,TRT Group,0,0,,0,-nan
-2019-02-01,2,February,2019,United Kingdom,TRT Group,0,0,0,0,-nan
-2019-03-01,3,March,2019,United Kingdom,TRT Group,0,0,0,0,-nan
-2019-04-01,4,April,2019,United Kingdom,TRT Group,0,0,0,0,-nan
-2019-05-01,5,May,2019,United Kingdom,TRT Group,0,0,0,0,-nan
-2019-06-01,6,June,2019,United Kingdom,TRT Group,0,0,0,0,-nan
-2019-07-01,7,July,2019,United Kingdom,TRT Group,0,0,0,0,-nan
-2019-08-01,8,August,2019,United Kingdom,TRT Group,0,0,0,0,-nan
-2019-09-01,9,September,2019,United Kingdom,TRT Group,0,0,0,0,-nan
-2019-10-01,10,October,2019,United Kingdom,TRT Group,0,0,0,0,-nan
-2019-11-01,11,November,2019,United Kingdom,TRT Group,0,0,0,0,-nan
-2019-12-01,12,December,2019,United Kingdom,TRT Group,0,0,0,0,-nan
-2020-01-01,1,January,2020,United Kingdom,TRT Group,0,0,0,0,-nan
-2020-02-01,2,February,2020,United Kingdom,TRT Group,0,0,0,0,-nan
-2020-03-01,3,March,2020,United Kingdom,TRT Group,0,0,0,0,-nan
-2020-04-01,4,April,2020,United Kingdom,TRT Group,0,0,0,0,-nan
-2020-05-01,5,May,2020,United Kingdom,TRT Group,0,0,0,0,-nan
-2020-06-01,6,June,2020,United Kingdom,TRT Group,0,0,0,0,-nan
-2020-07-01,7,July,2020,United Kingdom,TRT Group,0,0,0,0,-nan
-2020-08-01,8,August,2020,United Kingdom,TRT Group,0,0,0,0,-nan
-2020-09-01,9,September,2020,United Kingdom,TRT Group,0,0,0,0,-nan
-2020-10-01,10,October,2020,United Kingdom,TRT Group,0,0,0,0,-nan
-2020-11-01,11,November,2020,United Kingdom,TRT Group,0,0,0,0,-nan
-2020-12-01,12,December,2020,United Kingdom,TRT Group,0,0,0,0,-nan
-2021-01-01,1,January,2021,United Kingdom,TRT Group,0,0,0,0,-nan
-2021-02-01,2,February,2021,United Kingdom,TRT Group,0,0,0,0,-nan
-2021-03-01,3,March,2021,United Kingdom,TRT Group,0,0,0,0,-nan
-2021-04-01,4,April,2021,United Kingdom,TRT Group,0,0,0,0,-nan
-2021-05-01,5,May,2021,United Kingdom,TRT Group,0,0,0,0,-nan
-2021-06-01,6,June,2021,United Kingdom,TRT Group,0,0,0,0,-nan
-2021-07-01,7,July,2021,United Kingdom,TRT Group,0,0,0,0,-nan
-2021-08-01,8,August,2021,United Kingdom,TRT Group,0,0,0,0,-nan
-2021-09-01,9,September,2021,United Kingdom,TRT Group,0,0,0,0,-nan
-2021-10-01,10,October,2021,United Kingdom,TRT Group,0,0,0,0,-nan
-2021-11-01,11,November,2021,United Kingdom,TRT Group,0,0,0,0,-nan
-2021-12-01,12,December,2021,United Kingdom,TRT Group,0,0,0,0,-nan
-2022-01-01,1,January,2022,United Kingdom,TRT Group,0,0,0,0,-nan
-2022-02-01,2,February,2022,United Kingdom,TRT Group,0,0,0,0,-nan
-2022-03-01,3,March,2022,United Kingdom,TRT Group,0,0,0,0,-nan
-2022-04-01,4,April,2022,United Kingdom,TRT Group,0,0,0,0,-nan
-2022-05-01,5,May,2022,United Kingdom,TRT Group,0,0,0,0,-nan
-2022-06-01,6,June,2022,United Kingdom,TRT Group,0,0,0,0,-nan
-2022-07-01,7,July,2022,United Kingdom,TRT Group,0,0,0,0,-nan
-2022-08-01,8,August,2022,United Kingdom,TRT Group,0,0,0,0,-nan
-2022-09-01,9,September,2022,United Kingdom,TRT Group,0,0,0,0,-nan
-2022-10-01,10,October,2022,United Kingdom,TRT Group,0,0,0,0,-nan
-2022-11-01,11,November,2022,United Kingdom,TRT Group,0,0,0,0,-nan
-2022-12-01,12,December,2022,United Kingdom,TRT Group,0,0,0,0,-nan
-2023-01-01,1,January,2023,United Kingdom,TRT Group,0,0,0,0,-nan
-2023-02-01,2,February,2023,United Kingdom,TRT Group,0,0,0,0,-nan
-2023-03-01,3,March,2023,United Kingdom,TRT Group,2,0,0,2,0.0
-2023-04-01,4,April,2023,United Kingdom,TRT Group,3,0,2,5,0.0
-2023-05-01,5,May,2023,United Kingdom,TRT Group,7,0,5,12,0.0
-2023-06-01,6,June,2023,United Kingdom,TRT Group,2,3,12,14,0.21428571428571427
-2023-07-01,7,July,2023,United Kingdom,TRT Group,4,1,11,15,0.06666666666666667
-2023-08-01,8,August,2023,United Kingdom,TRT Group,9,2,14,23,0.08695652173913043
-2023-09-01,9,September,2023,United Kingdom,TRT Group,8,3,21,29,0.10344827586206896
-2023-10-01,10,October,2023,United Kingdom,TRT Group,4,3,26,30,0.1
-2023-11-01,11,November,2023,United Kingdom,TRT Group,6,1,27,33,0.030303030303030304
-2023-12-01,12,December,2023,United Kingdom,TRT Group,6,1,32,38,0.02631578947368421
-2024-01-01,1,January,2024,United Kingdom,TRT Group,27,3,37,64,0.046875
-2024-02-01,2,February,2024,United Kingdom,TRT Group,47,7,61,108,0.06481481481481481
-2024-03-01,3,March,2024,United Kingdom,TRT Group,102,7,101,203,0.034482758620689655
-2024-04-01,4,April,2024,United Kingdom,TRT Group,158,14,196,354,0.03954802259887006
-2024-05-01,5,May,2024,United Kingdom,TRT Group,265,35,340,605,0.05785123966942149
-2024-06-01,6,June,2024,United Kingdom,TRT Group,288,56,570,858,0.06526806526806526
-2024-07-01,7,July,2024,United Kingdom,TRT Group,283,244,802,1085,0.2248847926267281
-2024-08-01,8,August,2024,United Kingdom,TRT Group,32,873,841,873,1.0
-2024-09-01,9,September,2024,United Kingdom,TRT Group,0,0,0,0,-nan
-2024-10-01,10,October,2024,United Kingdom,TRT Group,0,0,0,0,-nan
-2024-11-01,11,November,2024,United Kingdom,TRT Group,0,0,0,0,-nan
 2019-01-01,1,January,2019,Brazil,Hair Loss Group,0,0,,0,-nan
 2019-02-01,2,February,2019,Brazil,Hair Loss Group,0,0,0,0,-nan
 2019-03-01,3,March,2019,Brazil,Hair Loss Group,0,0,0,0,-nan
@@ -709,6 +425,290 @@ first_day_of_month,month_of_year,month_name,year_key,customer_country,taxonomy_b
 2024-09-01,9,September,2024,Brazil,Sleep Group,0,0,0,0,-nan
 2024-10-01,10,October,2024,Brazil,Sleep Group,0,0,0,0,-nan
 2024-11-01,11,November,2024,Brazil,Sleep Group,0,0,0,0,-nan
+2019-01-01,1,January,2019,Brazil,None,0,0,,0,-nan
+2019-02-01,2,February,2019,Brazil,None,0,0,0,0,-nan
+2019-03-01,3,March,2019,Brazil,None,0,0,0,0,-nan
+2019-04-01,4,April,2019,Brazil,None,0,0,0,0,-nan
+2019-05-01,5,May,2019,Brazil,None,0,0,0,0,-nan
+2019-06-01,6,June,2019,Brazil,None,0,0,0,0,-nan
+2019-07-01,7,July,2019,Brazil,None,0,0,0,0,-nan
+2019-08-01,8,August,2019,Brazil,None,0,0,0,0,-nan
+2019-09-01,9,September,2019,Brazil,None,0,0,0,0,-nan
+2019-10-01,10,October,2019,Brazil,None,0,0,0,0,-nan
+2019-11-01,11,November,2019,Brazil,None,0,0,0,0,-nan
+2019-12-01,12,December,2019,Brazil,None,0,0,0,0,-nan
+2020-01-01,1,January,2020,Brazil,None,0,0,0,0,-nan
+2020-02-01,2,February,2020,Brazil,None,0,0,0,0,-nan
+2020-03-01,3,March,2020,Brazil,None,0,0,0,0,-nan
+2020-04-01,4,April,2020,Brazil,None,0,0,0,0,-nan
+2020-05-01,5,May,2020,Brazil,None,0,0,0,0,-nan
+2020-06-01,6,June,2020,Brazil,None,0,0,0,0,-nan
+2020-07-01,7,July,2020,Brazil,None,0,0,0,0,-nan
+2020-08-01,8,August,2020,Brazil,None,0,0,0,0,-nan
+2020-09-01,9,September,2020,Brazil,None,0,0,0,0,-nan
+2020-10-01,10,October,2020,Brazil,None,0,0,0,0,-nan
+2020-11-01,11,November,2020,Brazil,None,0,0,0,0,-nan
+2020-12-01,12,December,2020,Brazil,None,0,0,0,0,-nan
+2021-01-01,1,January,2021,Brazil,None,0,0,0,0,-nan
+2021-02-01,2,February,2021,Brazil,None,0,0,0,0,-nan
+2021-03-01,3,March,2021,Brazil,None,0,0,0,0,-nan
+2021-04-01,4,April,2021,Brazil,None,0,0,0,0,-nan
+2021-05-01,5,May,2021,Brazil,None,0,0,0,0,-nan
+2021-06-01,6,June,2021,Brazil,None,0,0,0,0,-nan
+2021-07-01,7,July,2021,Brazil,None,0,0,0,0,-nan
+2021-08-01,8,August,2021,Brazil,None,0,0,0,0,-nan
+2021-09-01,9,September,2021,Brazil,None,0,0,0,0,-nan
+2021-10-01,10,October,2021,Brazil,None,0,0,0,0,-nan
+2021-11-01,11,November,2021,Brazil,None,0,0,0,0,-nan
+2021-12-01,12,December,2021,Brazil,None,0,0,0,0,-nan
+2022-01-01,1,January,2022,Brazil,None,0,0,0,0,-nan
+2022-02-01,2,February,2022,Brazil,None,0,0,0,0,-nan
+2022-03-01,3,March,2022,Brazil,None,0,0,0,0,-nan
+2022-04-01,4,April,2022,Brazil,None,0,0,0,0,-nan
+2022-05-01,5,May,2022,Brazil,None,0,0,0,0,-nan
+2022-06-01,6,June,2022,Brazil,None,0,0,0,0,-nan
+2022-07-01,7,July,2022,Brazil,None,0,0,0,0,-nan
+2022-08-01,8,August,2022,Brazil,None,0,0,0,0,-nan
+2022-09-01,9,September,2022,Brazil,None,1,0,0,1,0.0
+2022-10-01,10,October,2022,Brazil,None,0,0,1,1,0.0
+2022-11-01,11,November,2022,Brazil,None,0,0,1,1,0.0
+2022-12-01,12,December,2022,Brazil,None,0,0,1,1,0.0
+2023-01-01,1,January,2023,Brazil,None,0,0,1,1,0.0
+2023-02-01,2,February,2023,Brazil,None,0,0,1,1,0.0
+2023-03-01,3,March,2023,Brazil,None,0,0,1,1,0.0
+2023-04-01,4,April,2023,Brazil,None,0,0,1,1,0.0
+2023-05-01,5,May,2023,Brazil,None,0,0,1,1,0.0
+2023-06-01,6,June,2023,Brazil,None,0,0,1,1,0.0
+2023-07-01,7,July,2023,Brazil,None,0,0,1,1,0.0
+2023-08-01,8,August,2023,Brazil,None,0,0,1,1,0.0
+2023-09-01,9,September,2023,Brazil,None,0,0,1,1,0.0
+2023-10-01,10,October,2023,Brazil,None,0,0,1,1,0.0
+2023-11-01,11,November,2023,Brazil,None,0,0,1,1,0.0
+2023-12-01,12,December,2023,Brazil,None,0,0,1,1,0.0
+2024-01-01,1,January,2024,Brazil,None,0,0,1,1,0.0
+2024-02-01,2,February,2024,Brazil,None,0,0,1,1,0.0
+2024-03-01,3,March,2024,Brazil,None,0,0,1,1,0.0
+2024-04-01,4,April,2024,Brazil,None,0,0,1,1,0.0
+2024-05-01,5,May,2024,Brazil,None,0,0,1,1,0.0
+2024-06-01,6,June,2024,Brazil,None,0,0,1,1,0.0
+2024-07-01,7,July,2024,Brazil,None,0,1,1,1,1.0
+2024-08-01,8,August,2024,Brazil,None,1164,1164,0,1164,1.0
+2024-09-01,9,September,2024,Brazil,None,0,0,0,0,-nan
+2024-10-01,10,October,2024,Brazil,None,0,0,0,0,-nan
+2024-11-01,11,November,2024,Brazil,None,0,0,0,0,-nan
+2019-01-01,1,January,2019,United Kingdom,Weight Loss Group,0,0,,0,-nan
+2019-02-01,2,February,2019,United Kingdom,Weight Loss Group,0,0,0,0,-nan
+2019-03-01,3,March,2019,United Kingdom,Weight Loss Group,0,0,0,0,-nan
+2019-04-01,4,April,2019,United Kingdom,Weight Loss Group,0,0,0,0,-nan
+2019-05-01,5,May,2019,United Kingdom,Weight Loss Group,0,0,0,0,-nan
+2019-06-01,6,June,2019,United Kingdom,Weight Loss Group,0,0,0,0,-nan
+2019-07-01,7,July,2019,United Kingdom,Weight Loss Group,0,0,0,0,-nan
+2019-08-01,8,August,2019,United Kingdom,Weight Loss Group,0,0,0,0,-nan
+2019-09-01,9,September,2019,United Kingdom,Weight Loss Group,0,0,0,0,-nan
+2019-10-01,10,October,2019,United Kingdom,Weight Loss Group,0,0,0,0,-nan
+2019-11-01,11,November,2019,United Kingdom,Weight Loss Group,0,0,0,0,-nan
+2019-12-01,12,December,2019,United Kingdom,Weight Loss Group,0,0,0,0,-nan
+2020-01-01,1,January,2020,United Kingdom,Weight Loss Group,0,0,0,0,-nan
+2020-02-01,2,February,2020,United Kingdom,Weight Loss Group,0,0,0,0,-nan
+2020-03-01,3,March,2020,United Kingdom,Weight Loss Group,0,0,0,0,-nan
+2020-04-01,4,April,2020,United Kingdom,Weight Loss Group,0,0,0,0,-nan
+2020-05-01,5,May,2020,United Kingdom,Weight Loss Group,0,0,0,0,-nan
+2020-06-01,6,June,2020,United Kingdom,Weight Loss Group,0,0,0,0,-nan
+2020-07-01,7,July,2020,United Kingdom,Weight Loss Group,0,0,0,0,-nan
+2020-08-01,8,August,2020,United Kingdom,Weight Loss Group,0,0,0,0,-nan
+2020-09-01,9,September,2020,United Kingdom,Weight Loss Group,0,0,0,0,-nan
+2020-10-01,10,October,2020,United Kingdom,Weight Loss Group,0,0,0,0,-nan
+2020-11-01,11,November,2020,United Kingdom,Weight Loss Group,0,0,0,0,-nan
+2020-12-01,12,December,2020,United Kingdom,Weight Loss Group,0,0,0,0,-nan
+2021-01-01,1,January,2021,United Kingdom,Weight Loss Group,0,0,0,0,-nan
+2021-02-01,2,February,2021,United Kingdom,Weight Loss Group,0,0,0,0,-nan
+2021-03-01,3,March,2021,United Kingdom,Weight Loss Group,0,0,0,0,-nan
+2021-04-01,4,April,2021,United Kingdom,Weight Loss Group,0,0,0,0,-nan
+2021-05-01,5,May,2021,United Kingdom,Weight Loss Group,0,0,0,0,-nan
+2021-06-01,6,June,2021,United Kingdom,Weight Loss Group,0,0,0,0,-nan
+2021-07-01,7,July,2021,United Kingdom,Weight Loss Group,0,0,0,0,-nan
+2021-08-01,8,August,2021,United Kingdom,Weight Loss Group,0,0,0,0,-nan
+2021-09-01,9,September,2021,United Kingdom,Weight Loss Group,0,0,0,0,-nan
+2021-10-01,10,October,2021,United Kingdom,Weight Loss Group,0,0,0,0,-nan
+2021-11-01,11,November,2021,United Kingdom,Weight Loss Group,0,0,0,0,-nan
+2021-12-01,12,December,2021,United Kingdom,Weight Loss Group,0,0,0,0,-nan
+2022-01-01,1,January,2022,United Kingdom,Weight Loss Group,0,0,0,0,-nan
+2022-02-01,2,February,2022,United Kingdom,Weight Loss Group,0,0,0,0,-nan
+2022-03-01,3,March,2022,United Kingdom,Weight Loss Group,0,0,0,0,-nan
+2022-04-01,4,April,2022,United Kingdom,Weight Loss Group,0,0,0,0,-nan
+2022-05-01,5,May,2022,United Kingdom,Weight Loss Group,3,0,0,3,0.0
+2022-06-01,6,June,2022,United Kingdom,Weight Loss Group,62,3,3,65,0.046153846153846156
+2022-07-01,7,July,2022,United Kingdom,Weight Loss Group,64,31,62,126,0.24603174603174602
+2022-08-01,8,August,2022,United Kingdom,Weight Loss Group,62,28,95,157,0.17834394904458598
+2022-09-01,9,September,2022,United Kingdom,Weight Loss Group,129,39,129,258,0.1511627906976744
+2022-10-01,10,October,2022,United Kingdom,Weight Loss Group,457,107,219,676,0.15828402366863906
+2022-11-01,11,November,2022,United Kingdom,Weight Loss Group,376,178,569,945,0.18835978835978837
+2022-12-01,12,December,2022,United Kingdom,Weight Loss Group,680,181,767,1447,0.12508638562543192
+2023-01-01,1,January,2023,United Kingdom,Weight Loss Group,1365,389,1266,2631,0.14785252755606235
+2023-02-01,2,February,2023,United Kingdom,Weight Loss Group,1558,543,2242,3800,0.14289473684210527
+2023-03-01,3,March,2023,United Kingdom,Weight Loss Group,2135,836,3257,5392,0.15504451038575667
+2023-04-01,4,April,2023,United Kingdom,Weight Loss Group,1143,804,4556,5699,0.14107738199684156
+2023-05-01,5,May,2023,United Kingdom,Weight Loss Group,1384,987,4895,6279,0.15719063545150502
+2023-06-01,6,June,2023,United Kingdom,Weight Loss Group,1382,941,5292,6674,0.1409949056038358
+2023-07-01,7,July,2023,United Kingdom,Weight Loss Group,2380,1280,5733,8113,0.15777147787501541
+2023-08-01,8,August,2023,United Kingdom,Weight Loss Group,588,1012,6833,7421,0.13636976148767013
+2023-09-01,9,September,2023,United Kingdom,Weight Loss Group,1660,862,6409,8069,0.10682860329656711
+2023-10-01,10,October,2023,United Kingdom,Weight Loss Group,1006,1008,7207,8213,0.12273225374406428
+2023-11-01,11,November,2023,United Kingdom,Weight Loss Group,850,950,7205,8055,0.11793916821849783
+2023-12-01,12,December,2023,United Kingdom,Weight Loss Group,843,853,7105,7948,0.10732259687971817
+2024-01-01,1,January,2024,United Kingdom,Weight Loss Group,1901,1025,7095,8996,0.11393952867941307
+2024-02-01,2,February,2024,United Kingdom,Weight Loss Group,2642,1216,7971,10613,0.11457646282860642
+2024-03-01,3,March,2024,United Kingdom,Weight Loss Group,2985,1782,9397,12382,0.14391859150379582
+2024-04-01,4,April,2024,United Kingdom,Weight Loss Group,3542,2058,10600,14142,0.14552397114976665
+2024-05-01,5,May,2024,United Kingdom,Weight Loss Group,3299,2313,12084,15383,0.1503607878827277
+2024-06-01,6,June,2024,United Kingdom,Weight Loss Group,3473,2288,13070,16543,0.13830623224324487
+2024-07-01,7,July,2024,United Kingdom,Weight Loss Group,4394,3911,14255,18649,0.20971633867767708
+2024-08-01,8,August,2024,United Kingdom,Weight Loss Group,683,15421,14738,15421,1.0
+2024-09-01,9,September,2024,United Kingdom,Weight Loss Group,0,0,0,0,-nan
+2024-10-01,10,October,2024,United Kingdom,Weight Loss Group,0,0,0,0,-nan
+2024-11-01,11,November,2024,United Kingdom,Weight Loss Group,0,0,0,0,-nan
+2019-01-01,1,January,2019,United Kingdom,None,0,0,,0,-nan
+2019-02-01,2,February,2019,United Kingdom,None,0,0,0,0,-nan
+2019-03-01,3,March,2019,United Kingdom,None,0,0,0,0,-nan
+2019-04-01,4,April,2019,United Kingdom,None,0,0,0,0,-nan
+2019-05-01,5,May,2019,United Kingdom,None,0,0,0,0,-nan
+2019-06-01,6,June,2019,United Kingdom,None,0,0,0,0,-nan
+2019-07-01,7,July,2019,United Kingdom,None,0,0,0,0,-nan
+2019-08-01,8,August,2019,United Kingdom,None,0,0,0,0,-nan
+2019-09-01,9,September,2019,United Kingdom,None,0,0,0,0,-nan
+2019-10-01,10,October,2019,United Kingdom,None,0,0,0,0,-nan
+2019-11-01,11,November,2019,United Kingdom,None,0,0,0,0,-nan
+2019-12-01,12,December,2019,United Kingdom,None,0,0,0,0,-nan
+2020-01-01,1,January,2020,United Kingdom,None,0,0,0,0,-nan
+2020-02-01,2,February,2020,United Kingdom,None,0,0,0,0,-nan
+2020-03-01,3,March,2020,United Kingdom,None,0,0,0,0,-nan
+2020-04-01,4,April,2020,United Kingdom,None,0,0,0,0,-nan
+2020-05-01,5,May,2020,United Kingdom,None,0,0,0,0,-nan
+2020-06-01,6,June,2020,United Kingdom,None,0,0,0,0,-nan
+2020-07-01,7,July,2020,United Kingdom,None,0,0,0,0,-nan
+2020-08-01,8,August,2020,United Kingdom,None,0,0,0,0,-nan
+2020-09-01,9,September,2020,United Kingdom,None,0,0,0,0,-nan
+2020-10-01,10,October,2020,United Kingdom,None,0,0,0,0,-nan
+2020-11-01,11,November,2020,United Kingdom,None,0,0,0,0,-nan
+2020-12-01,12,December,2020,United Kingdom,None,0,0,0,0,-nan
+2021-01-01,1,January,2021,United Kingdom,None,0,0,0,0,-nan
+2021-02-01,2,February,2021,United Kingdom,None,1,1,0,1,1.0
+2021-03-01,3,March,2021,United Kingdom,None,0,0,0,0,-nan
+2021-04-01,4,April,2021,United Kingdom,None,0,0,0,0,-nan
+2021-05-01,5,May,2021,United Kingdom,None,0,0,0,0,-nan
+2021-06-01,6,June,2021,United Kingdom,None,0,0,0,0,-nan
+2021-07-01,7,July,2021,United Kingdom,None,0,0,0,0,-nan
+2021-08-01,8,August,2021,United Kingdom,None,0,0,0,0,-nan
+2021-09-01,9,September,2021,United Kingdom,None,0,0,0,0,-nan
+2021-10-01,10,October,2021,United Kingdom,None,0,0,0,0,-nan
+2021-11-01,11,November,2021,United Kingdom,None,0,0,0,0,-nan
+2021-12-01,12,December,2021,United Kingdom,None,0,0,0,0,-nan
+2022-01-01,1,January,2022,United Kingdom,None,0,0,0,0,-nan
+2022-02-01,2,February,2022,United Kingdom,None,0,0,0,0,-nan
+2022-03-01,3,March,2022,United Kingdom,None,0,0,0,0,-nan
+2022-04-01,4,April,2022,United Kingdom,None,0,0,0,0,-nan
+2022-05-01,5,May,2022,United Kingdom,None,0,0,0,0,-nan
+2022-06-01,6,June,2022,United Kingdom,None,0,0,0,0,-nan
+2022-07-01,7,July,2022,United Kingdom,None,0,0,0,0,-nan
+2022-08-01,8,August,2022,United Kingdom,None,0,0,0,0,-nan
+2022-09-01,9,September,2022,United Kingdom,None,0,0,0,0,-nan
+2022-10-01,10,October,2022,United Kingdom,None,0,0,0,0,-nan
+2022-11-01,11,November,2022,United Kingdom,None,0,0,0,0,-nan
+2022-12-01,12,December,2022,United Kingdom,None,0,0,0,0,-nan
+2023-01-01,1,January,2023,United Kingdom,None,0,0,0,0,-nan
+2023-02-01,2,February,2023,United Kingdom,None,0,0,0,0,-nan
+2023-03-01,3,March,2023,United Kingdom,None,0,0,0,0,-nan
+2023-04-01,4,April,2023,United Kingdom,None,0,0,0,0,-nan
+2023-05-01,5,May,2023,United Kingdom,None,0,0,0,0,-nan
+2023-06-01,6,June,2023,United Kingdom,None,0,0,0,0,-nan
+2023-07-01,7,July,2023,United Kingdom,None,0,0,0,0,-nan
+2023-08-01,8,August,2023,United Kingdom,None,0,0,0,0,-nan
+2023-09-01,9,September,2023,United Kingdom,None,0,0,0,0,-nan
+2023-10-01,10,October,2023,United Kingdom,None,0,0,0,0,-nan
+2023-11-01,11,November,2023,United Kingdom,None,0,0,0,0,-nan
+2023-12-01,12,December,2023,United Kingdom,None,0,0,0,0,-nan
+2024-01-01,1,January,2024,United Kingdom,None,0,0,0,0,-nan
+2024-02-01,2,February,2024,United Kingdom,None,0,0,0,0,-nan
+2024-03-01,3,March,2024,United Kingdom,None,0,0,0,0,-nan
+2024-04-01,4,April,2024,United Kingdom,None,0,0,0,0,-nan
+2024-05-01,5,May,2024,United Kingdom,None,0,0,0,0,-nan
+2024-06-01,6,June,2024,United Kingdom,None,0,0,0,0,-nan
+2024-07-01,7,July,2024,United Kingdom,None,0,0,0,0,-nan
+2024-08-01,8,August,2024,United Kingdom,None,3730,3730,0,3730,1.0
+2024-09-01,9,September,2024,United Kingdom,None,0,0,0,0,-nan
+2024-10-01,10,October,2024,United Kingdom,None,0,0,0,0,-nan
+2024-11-01,11,November,2024,United Kingdom,None,0,0,0,0,-nan
+2019-01-01,1,January,2019,United Kingdom,TRT Group,0,0,,0,-nan
+2019-02-01,2,February,2019,United Kingdom,TRT Group,0,0,0,0,-nan
+2019-03-01,3,March,2019,United Kingdom,TRT Group,0,0,0,0,-nan
+2019-04-01,4,April,2019,United Kingdom,TRT Group,0,0,0,0,-nan
+2019-05-01,5,May,2019,United Kingdom,TRT Group,0,0,0,0,-nan
+2019-06-01,6,June,2019,United Kingdom,TRT Group,0,0,0,0,-nan
+2019-07-01,7,July,2019,United Kingdom,TRT Group,0,0,0,0,-nan
+2019-08-01,8,August,2019,United Kingdom,TRT Group,0,0,0,0,-nan
+2019-09-01,9,September,2019,United Kingdom,TRT Group,0,0,0,0,-nan
+2019-10-01,10,October,2019,United Kingdom,TRT Group,0,0,0,0,-nan
+2019-11-01,11,November,2019,United Kingdom,TRT Group,0,0,0,0,-nan
+2019-12-01,12,December,2019,United Kingdom,TRT Group,0,0,0,0,-nan
+2020-01-01,1,January,2020,United Kingdom,TRT Group,0,0,0,0,-nan
+2020-02-01,2,February,2020,United Kingdom,TRT Group,0,0,0,0,-nan
+2020-03-01,3,March,2020,United Kingdom,TRT Group,0,0,0,0,-nan
+2020-04-01,4,April,2020,United Kingdom,TRT Group,0,0,0,0,-nan
+2020-05-01,5,May,2020,United Kingdom,TRT Group,0,0,0,0,-nan
+2020-06-01,6,June,2020,United Kingdom,TRT Group,0,0,0,0,-nan
+2020-07-01,7,July,2020,United Kingdom,TRT Group,0,0,0,0,-nan
+2020-08-01,8,August,2020,United Kingdom,TRT Group,0,0,0,0,-nan
+2020-09-01,9,September,2020,United Kingdom,TRT Group,0,0,0,0,-nan
+2020-10-01,10,October,2020,United Kingdom,TRT Group,0,0,0,0,-nan
+2020-11-01,11,November,2020,United Kingdom,TRT Group,0,0,0,0,-nan
+2020-12-01,12,December,2020,United Kingdom,TRT Group,0,0,0,0,-nan
+2021-01-01,1,January,2021,United Kingdom,TRT Group,0,0,0,0,-nan
+2021-02-01,2,February,2021,United Kingdom,TRT Group,0,0,0,0,-nan
+2021-03-01,3,March,2021,United Kingdom,TRT Group,0,0,0,0,-nan
+2021-04-01,4,April,2021,United Kingdom,TRT Group,0,0,0,0,-nan
+2021-05-01,5,May,2021,United Kingdom,TRT Group,0,0,0,0,-nan
+2021-06-01,6,June,2021,United Kingdom,TRT Group,0,0,0,0,-nan
+2021-07-01,7,July,2021,United Kingdom,TRT Group,0,0,0,0,-nan
+2021-08-01,8,August,2021,United Kingdom,TRT Group,0,0,0,0,-nan
+2021-09-01,9,September,2021,United Kingdom,TRT Group,0,0,0,0,-nan
+2021-10-01,10,October,2021,United Kingdom,TRT Group,0,0,0,0,-nan
+2021-11-01,11,November,2021,United Kingdom,TRT Group,0,0,0,0,-nan
+2021-12-01,12,December,2021,United Kingdom,TRT Group,0,0,0,0,-nan
+2022-01-01,1,January,2022,United Kingdom,TRT Group,0,0,0,0,-nan
+2022-02-01,2,February,2022,United Kingdom,TRT Group,0,0,0,0,-nan
+2022-03-01,3,March,2022,United Kingdom,TRT Group,0,0,0,0,-nan
+2022-04-01,4,April,2022,United Kingdom,TRT Group,0,0,0,0,-nan
+2022-05-01,5,May,2022,United Kingdom,TRT Group,0,0,0,0,-nan
+2022-06-01,6,June,2022,United Kingdom,TRT Group,0,0,0,0,-nan
+2022-07-01,7,July,2022,United Kingdom,TRT Group,0,0,0,0,-nan
+2022-08-01,8,August,2022,United Kingdom,TRT Group,0,0,0,0,-nan
+2022-09-01,9,September,2022,United Kingdom,TRT Group,0,0,0,0,-nan
+2022-10-01,10,October,2022,United Kingdom,TRT Group,0,0,0,0,-nan
+2022-11-01,11,November,2022,United Kingdom,TRT Group,0,0,0,0,-nan
+2022-12-01,12,December,2022,United Kingdom,TRT Group,0,0,0,0,-nan
+2023-01-01,1,January,2023,United Kingdom,TRT Group,0,0,0,0,-nan
+2023-02-01,2,February,2023,United Kingdom,TRT Group,0,0,0,0,-nan
+2023-03-01,3,March,2023,United Kingdom,TRT Group,2,0,0,2,0.0
+2023-04-01,4,April,2023,United Kingdom,TRT Group,3,0,2,5,0.0
+2023-05-01,5,May,2023,United Kingdom,TRT Group,7,0,5,12,0.0
+2023-06-01,6,June,2023,United Kingdom,TRT Group,2,3,12,14,0.21428571428571427
+2023-07-01,7,July,2023,United Kingdom,TRT Group,4,1,11,15,0.06666666666666667
+2023-08-01,8,August,2023,United Kingdom,TRT Group,9,2,14,23,0.08695652173913043
+2023-09-01,9,September,2023,United Kingdom,TRT Group,8,3,21,29,0.10344827586206896
+2023-10-01,10,October,2023,United Kingdom,TRT Group,4,3,26,30,0.1
+2023-11-01,11,November,2023,United Kingdom,TRT Group,6,1,27,33,0.030303030303030304
+2023-12-01,12,December,2023,United Kingdom,TRT Group,6,1,32,38,0.02631578947368421
+2024-01-01,1,January,2024,United Kingdom,TRT Group,27,3,37,64,0.046875
+2024-02-01,2,February,2024,United Kingdom,TRT Group,47,7,61,108,0.06481481481481481
+2024-03-01,3,March,2024,United Kingdom,TRT Group,102,7,101,203,0.034482758620689655
+2024-04-01,4,April,2024,United Kingdom,TRT Group,158,14,196,354,0.03954802259887006
+2024-05-01,5,May,2024,United Kingdom,TRT Group,265,35,340,605,0.05785123966942149
+2024-06-01,6,June,2024,United Kingdom,TRT Group,288,56,570,858,0.06526806526806526
+2024-07-01,7,July,2024,United Kingdom,TRT Group,283,244,802,1085,0.2248847926267281
+2024-08-01,8,August,2024,United Kingdom,TRT Group,32,873,841,873,1.0
+2024-09-01,9,September,2024,United Kingdom,TRT Group,0,0,0,0,-nan
+2024-10-01,10,October,2024,United Kingdom,TRT Group,0,0,0,0,-nan
+2024-11-01,11,November,2024,United Kingdom,TRT Group,0,0,0,0,-nan
 2019-01-01,1,January,2019,United Kingdom,ED Group,123,0,,123,0.0
 2019-02-01,2,February,2019,United Kingdom,ED Group,564,84,123,687,0.1222707423580786
 2019-03-01,3,March,2019,United Kingdom,ED Group,1809,339,603,2412,0.14054726368159204

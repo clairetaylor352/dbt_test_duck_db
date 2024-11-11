@@ -88,9 +88,11 @@ The principal logic in this repo is contained in [fact_activity.sql](./models/se
 
 1. Start up codespaces from this repo
 ![alt text](image.png)
-2. Run `./scripts/linux_setup.sh` in the terminal
-3. Run `dbt build` - this will read in the data into a duckdb instance and output the csv that is saved to this repo (note that the larger `activity.csv` file takes ~2 minutes to load)
-4. Run `./duckdb test_duckdb.duckdb` - you can then have a look around the tables created by dbt
+2. It runs a custom script at start up so you need to wait for that to finish. It takes about 1 minute for this to load saying that it is running the script:
+![alt text](image-1.png)
+3. Run `source .venv/bin/activate` to activate the virtual environment with dbt installed.
+4. Run `dbt build` - this will read in the data into a duckdb instance and output the csv that is saved to this repo (note that the larger `activity.csv` file takes ~2 minutes to load)
+5. Run `./duckdb test_duckdb.duckdb` - you can then have a look around the tables created by dbt
 
 If you start up the codespace subsequently, you do not need to rerun the set up script above, but you will need to run `source .venv/bin/activate` to activate the virtual environment with dbt in it.
 
